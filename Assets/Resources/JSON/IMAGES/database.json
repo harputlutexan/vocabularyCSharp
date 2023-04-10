@@ -1,0 +1,7940 @@
+[
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals78",
+        "OPT1": "Gecko",
+        "OPT2": "Mole",
+        "OPT3": "Tapir",
+        "OPT4": "Cockroach",
+        "_id": 1
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bermuda",
+        "OPT1": "Bermuda",
+        "OPT2": "The Federated States of Micronesia",
+        "OPT3": "Montenegro",
+        "OPT4": "Palau",
+        "_id": 2
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Equatorial Guinea",
+        "OPT1": "Malabo",
+        "OPT2": "Abu Dhabi",
+        "OPT3": "Dublin",
+        "OPT4": "Thimphu",
+        "_id": 3
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_iran",
+        "OPT1": "Iran",
+        "OPT2": "Luxembourg",
+        "OPT3": "The Democratic Republic of the Congo",
+        "OPT4": "Bolivia",
+        "_id": 4
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_russia",
+        "OPT1": "Russia",
+        "OPT2": "Macedonia",
+        "OPT3": "Cameroon",
+        "OPT4": "Mexico",
+        "_id": 5
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_montenegro",
+        "OPT1": "Montenegro",
+        "OPT2": "Dominica",
+        "OPT3": "Ethiopia",
+        "OPT4": "Gabon",
+        "_id": 6
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals45",
+        "OPT1": "Cheetah",
+        "OPT2": "Ostrich",
+        "OPT3": "Roadrunner",
+        "OPT4": "Ape",
+        "_id": 7
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt058",
+        "OPT1": "Pen",
+        "OPT2": "Plastic Plates",
+        "OPT3": "Light Bulbs",
+        "OPT4": "Chairs",
+        "_id": 8
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bahamas",
+        "OPT1": "Nassau",
+        "OPT2": "Port of Spain",
+        "OPT3": "Freetown",
+        "OPT4": "Nairobi",
+        "_id": 9
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler15",
+        "OPT1": "Mango",
+        "OPT2": "Onion",
+        "OPT3": "Red Apple",
+        "OPT4": "Collard Greens",
+        "_id": 10
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals4",
+        "OPT1": "Leopard",
+        "OPT2": "Gecko",
+        "OPT3": "Coral",
+        "OPT4": "Rat",
+        "_id": 11
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals188",
+        "OPT1": "Wallaby",
+        "OPT2": "Reptile",
+        "OPT3": "Horse",
+        "OPT4": "Goldfish",
+        "_id": 12
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_lithuania",
+        "OPT1": "Lithuania",
+        "OPT2": "Mali",
+        "OPT3": "Fiji",
+        "OPT4": "Morocco",
+        "_id": 13
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt010",
+        "OPT1": "Brush",
+        "OPT2": "Medicine",
+        "OPT3": "Tablecloth",
+        "OPT4": "Toaster",
+        "_id": 14
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals39",
+        "OPT1": "Capybara",
+        "OPT2": "Llama",
+        "OPT3": "Tasmanian Devil",
+        "OPT4": "Moose",
+        "_id": 15
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Argentina",
+        "OPT1": "Buenos Aires",
+        "OPT2": "Port Moresby",
+        "OPT3": "Hamilton",
+        "OPT4": "Vilnius",
+        "_id": 16
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler37",
+        "OPT1": "Jujube",
+        "OPT2": "Cranberry",
+        "OPT3": "Papaya",
+        "OPT4": "Key Lime",
+        "_id": 17
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_qatar",
+        "OPT1": "Qatar",
+        "OPT2": "Austria",
+        "OPT3": "The Vatican City",
+        "OPT4": "Burundi",
+        "_id": 18
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Switzerland",
+        "OPT1": "Bern",
+        "OPT2": "Niamey",
+        "OPT3": "Avarua",
+        "OPT4": "Luanda",
+        "_id": 19
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler19",
+        "OPT1": "Dragonfruit",
+        "OPT2": "Kohlrabi",
+        "OPT3": "Black Currant",
+        "OPT4": "Corn",
+        "_id": 20
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt029",
+        "OPT1": "Drill",
+        "OPT2": "Musical Instruments",
+        "OPT3": "Pans",
+        "OPT4": "Plastic Plates",
+        "_id": 21
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_somalia",
+        "OPT1": "Somalia",
+        "OPT2": "Singapore",
+        "OPT3": "Armenia",
+        "OPT4": "Honduras",
+        "_id": 22
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cyprus",
+        "OPT1": "Cyprus",
+        "OPT2": "The Turkish Republic of Northern Cyprus",
+        "OPT3": "Nicaragua",
+        "OPT4": "Belize",
+        "_id": 23
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt030",
+        "OPT1": "Dryer",
+        "OPT2": "Ironing Board",
+        "OPT3": "Pitcher",
+        "OPT4": "Alarm Clock",
+        "_id": 24
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_austria",
+        "OPT1": "Austria",
+        "OPT2": "Cape Verde",
+        "OPT3": "Italy",
+        "OPT4": "South Africa",
+        "_id": 25
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Pierre and Miquelon",
+        "OPT1": "St. Pierre",
+        "OPT2": "Basseterre",
+        "OPT3": "Buenos Aires",
+        "OPT4": "Brasília",
+        "_id": 26
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Nepal",
+        "OPT1": "Kathmandu",
+        "OPT2": "Marigot",
+        "OPT3": "Accra",
+        "OPT4": "Gaborone",
+        "_id": 27
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Nicaragua",
+        "OPT1": "Managua",
+        "OPT2": "Vilnius",
+        "OPT3": "Sri Jayawardenepura Kotte (official)",
+        "OPT4": "Victoria",
+        "_id": 28
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_liberia",
+        "OPT1": "Liberia",
+        "OPT2": "Peru",
+        "OPT3": "Norway",
+        "OPT4": "Somaliland",
+        "_id": 29
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mauritius",
+        "OPT1": "Port Louis",
+        "OPT2": "Jerusalem (declared, de facto)",
+        "OPT3": "Marigot",
+        "OPT4": "Nuuk",
+        "_id": 30
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals33",
+        "OPT1": "Boar ",
+        "OPT2": "Squirrel",
+        "OPT3": "Bobcat",
+        "OPT4": "Koala",
+        "_id": 31
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Northern Cyprus",
+        "OPT1": "Nicosia",
+        "OPT2": "Malé",
+        "OPT3": "Kuwait City",
+        "OPT4": "Nouakchott",
+        "_id": 32
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_united_states",
+        "OPT1": "The United States",
+        "OPT2": "Belarus",
+        "OPT3": "Macedonia",
+        "OPT4": "Costa Rica",
+        "_id": 33
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler23",
+        "OPT1": "Iceberg Lettuce",
+        "OPT2": "Carrot",
+        "OPT3": "Gooseberry",
+        "OPT4": "Potato",
+        "_id": 34
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Laos",
+        "OPT1": "Vientiane",
+        "OPT2": "Washington, D.C.",
+        "OPT3": "Bamako",
+        "OPT4": "Nicosia",
+        "_id": 35
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals70",
+        "OPT1": "Elk",
+        "OPT2": "Clownfish",
+        "OPT3": "Mockingbird",
+        "OPT4": "Jellyfish",
+        "_id": 36
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals87",
+        "OPT1": "Gull",
+        "OPT2": "Fly",
+        "OPT3": "Goose",
+        "OPT4": "Hawk",
+        "_id": 37
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_el_salvador",
+        "OPT1": "El Salvador",
+        "OPT2": "Albania",
+        "OPT3": "Brazil",
+        "OPT4": "North Korea",
+        "_id": 38
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tajikistan",
+        "OPT1": "Tajikistan",
+        "OPT2": "Angola",
+        "OPT3": "Guinea",
+        "OPT4": "Nepal",
+        "_id": 39
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "New Caledonia",
+        "OPT1": "Nouméa",
+        "OPT2": "Kigali",
+        "OPT3": "Lisbon",
+        "OPT4": "Baku",
+        "_id": 40
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_new_zealand",
+        "OPT1": "New Zealand",
+        "OPT2": "Kosovo",
+        "OPT3": "Sierra Leone",
+        "OPT4": "Saint Vincent and the Grenadines",
+        "_id": 41
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_samoa",
+        "OPT1": "Samoa",
+        "OPT2": "Canada",
+        "OPT3": "Bahrain",
+        "OPT4": "Italy",
+        "_id": 42
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler47",
+        "OPT1": "Potato",
+        "OPT2": "Lemon",
+        "OPT3": "Kohlrabi",
+        "OPT4": "Zucchini",
+        "_id": 43
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_singapore",
+        "OPT1": "Singapore",
+        "OPT2": "Afghanistan",
+        "OPT3": "Guyana",
+        "OPT4": "Norway",
+        "_id": 44
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Malta",
+        "OPT1": "Valletta",
+        "OPT2": "West island",
+        "OPT3": "Pristina",
+        "OPT4": "Georgetown",
+        "_id": 45
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kuwait",
+        "OPT1": "Kuwait",
+        "OPT2": "Finland",
+        "OPT3": "Thailand",
+        "OPT4": "Palau",
+        "_id": 46
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler25",
+        "OPT1": "Tomato",
+        "OPT2": "Okra",
+        "OPT3": "Starfruit",
+        "OPT4": "Avacado",
+        "_id": 47
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_iceland",
+        "OPT1": "iceland",
+        "OPT2": "Pakistan",
+        "OPT3": "Saint Vincent and the Grenadines",
+        "OPT4": "New Zealand",
+        "_id": 48
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Serbia",
+        "OPT1": "Belgrade",
+        "OPT2": "Nuku'alofa",
+        "OPT3": "Moscow",
+        "OPT4": "Castries",
+        "_id": 49
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_venezuela",
+        "OPT1": "Venezuela",
+        "OPT2": "Switzerland",
+        "OPT3": "Trinidad and Tobago",
+        "OPT4": "Poland",
+        "_id": 50
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ivory_coast",
+        "OPT1": "Ivory Coast",
+        "OPT2": "South Ossetia",
+        "OPT3": "Moldova",
+        "OPT4": "Ethiopia",
+        "_id": 51
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt073",
+        "OPT1": "Shelf",
+        "OPT2": "Carpet",
+        "OPT3": "Sofa",
+        "OPT4": "Fan",
+        "_id": 52
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Togo",
+        "OPT1": "Lomé",
+        "OPT2": "Ljubljana",
+        "OPT3": "Islamabad",
+        "OPT4": "Port Vila",
+        "_id": 53
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_latvia",
+        "OPT1": "Latvia",
+        "OPT2": "Georgia",
+        "OPT3": "indonesia",
+        "OPT4": "Bangladesh",
+        "_id": 54
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Lesotho",
+        "OPT1": "Maseru",
+        "OPT2": "Jerusalem (declared)",
+        "OPT3": "Jakarta",
+        "OPT4": "Beirut",
+        "_id": 55
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_thenorthernmarianaislands",
+        "OPT1": "Northern Mariana islands",
+        "OPT2": "Belize",
+        "OPT3": "Croatia",
+        "OPT4": "The Philippines",
+        "_id": 56
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_norfolkisland",
+        "OPT1": "Norfolk island",
+        "OPT2": "Argentina",
+        "OPT3": "Uzbekistan",
+        "OPT4": "El Salvador",
+        "_id": 57
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_netherlands",
+        "OPT1": "The Netherlands",
+        "OPT2": "Nepal",
+        "OPT3": "Cambodia",
+        "OPT4": "The Vatican City",
+        "_id": 58
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt101",
+        "OPT1": "Jewelry",
+        "OPT2": "Couch",
+        "OPT3": "Mop",
+        "OPT4": "Ironing Board",
+        "_id": 59
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt104",
+        "OPT1": "Magnets",
+        "OPT2": "Toothpaste",
+        "OPT3": "Toilet Paper",
+        "OPT4": "Linens",
+        "_id": 60
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt118",
+        "OPT1": "Lampshade",
+        "OPT2": "Socks",
+        "OPT3": "Alarm Clock",
+        "OPT4": "Saw",
+        "_id": 61
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt082",
+        "OPT1": "Suitcase",
+        "OPT2": "Cupboard",
+        "OPT3": "Cushions",
+        "OPT4": "Mug",
+        "_id": 62
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_italy",
+        "OPT1": "Italy",
+        "OPT2": "Panama",
+        "OPT3": "Slovakia",
+        "OPT4": "Sierra Leone",
+        "_id": 63
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals92",
+        "OPT1": "Hippopotamus",
+        "OPT2": "Ant",
+        "OPT3": "Cow",
+        "OPT4": "Boa Snake",
+        "_id": 64
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mauritius",
+        "OPT1": "Mauritius",
+        "OPT2": "Turkey",
+        "OPT3": "Haiti",
+        "OPT4": "Grenada",
+        "_id": 65
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals26",
+        "OPT1": "Bedbug",
+        "OPT2": "Lion",
+        "OPT3": "Tarantula",
+        "OPT4": "Crocodile",
+        "_id": 66
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler13",
+        "OPT1": "Kiwi Fruit",
+        "OPT2": "Eggplant",
+        "OPT3": "Butternut Squash",
+        "OPT4": "Kohlrabi",
+        "_id": 67
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mozambique",
+        "OPT1": "Maputo",
+        "OPT2": "Moroni",
+        "OPT3": "Minsk",
+        "OPT4": "Ottawa",
+        "_id": 68
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt056",
+        "OPT1": "Pants",
+        "OPT2": "Saw",
+        "OPT3": "Phone",
+        "OPT4": "Dust Pan",
+        "_id": 69
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler18",
+        "OPT1": "Butternut Squash",
+        "OPT2": "Cherry",
+        "OPT3": "Nectarine",
+        "OPT4": "Pomegranate",
+        "_id": 70
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_turkmenistan",
+        "OPT1": "Turkmenistan",
+        "OPT2": "Saint Lucia",
+        "OPT3": "Uganda",
+        "OPT4": "The Central African Republic",
+        "_id": 71
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt092",
+        "OPT1": "Toys",
+        "OPT2": "Saucer",
+        "OPT3": "Bedspread",
+        "OPT4": "Shirt",
+        "_id": 72
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals7",
+        "OPT1": "Bison",
+        "OPT2": "Tasmanian Devil",
+        "OPT3": "Lemur",
+        "OPT4": "Snail",
+        "_id": 73
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals161",
+        "OPT1": "Rooster",
+        "OPT2": "Crab",
+        "OPT3": "Rat",
+        "OPT4": "Hummingbird",
+        "_id": 74
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler36",
+        "OPT1": "Acorn Squash",
+        "OPT2": "Watermelon",
+        "OPT3": "Pomegranate",
+        "OPT4": "Radish",
+        "_id": 75
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt004",
+        "OPT1": "Binders",
+        "OPT2": "Markers",
+        "OPT3": "Refrigerator",
+        "OPT4": "Duvet",
+        "_id": 76
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Djibouti",
+        "OPT1": "Djibouti",
+        "OPT2": "Madrid",
+        "OPT3": "Warsaw",
+        "OPT4": "Tokyo",
+        "_id": 77
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Yemen",
+        "OPT1": "Sana'a",
+        "OPT2": "Yaoundé",
+        "OPT3": "Kathmandu",
+        "OPT4": "Moscow",
+        "_id": 78
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_nepal",
+        "OPT1": "Nepal",
+        "OPT2": "Syria",
+        "OPT3": "Mali",
+        "OPT4": "South Sudan",
+        "_id": 79
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_uruguay",
+        "OPT1": "Uruguay",
+        "OPT2": "Uganda",
+        "OPT3": "Myanmar",
+        "OPT4": "Papua New Guinea",
+        "_id": 80
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler50",
+        "OPT1": "Beet",
+        "OPT2": "Iceberg Lettuce",
+        "OPT3": "Kumquat",
+        "OPT4": "Artichoke",
+        "_id": 81
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals20",
+        "OPT1": "Bald Eagle",
+        "OPT2": "Jaguar",
+        "OPT3": "Otter",
+        "OPT4": "Hippopotamus",
+        "_id": 82
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "United States Virgin islands",
+        "OPT1": "Charlotte Amalie",
+        "OPT2": "Flying Fish Cove",
+        "OPT3": "Nuku'alofa",
+        "OPT4": "Monrovia",
+        "_id": 83
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Abkhazia",
+        "OPT1": "Sukhumi",
+        "OPT2": "Phnom Penh",
+        "OPT3": "Bangkok",
+        "OPT4": "Suva",
+        "_id": 84
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals48",
+        "OPT1": "Chipmunk",
+        "OPT2": "Crocodile",
+        "OPT3": "Lion",
+        "OPT4": "Blackbird",
+        "_id": 85
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler76",
+        "OPT1": "Red Apple",
+        "OPT2": "Passion Fruit",
+        "OPT3": "Cucumber",
+        "OPT4": "GrannySmithApple",
+        "_id": 86
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt095",
+        "OPT1": "Washing Machine",
+        "OPT2": "Cushions",
+        "OPT3": "Shoes",
+        "OPT4": "Candles",
+        "_id": 87
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler48",
+        "OPT1": "Turnip",
+        "OPT2": "Beet",
+        "OPT3": "Asparagus",
+        "OPT4": "Rutabaga",
+        "_id": 88
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt116",
+        "OPT1": "Fuse Box",
+        "OPT2": "Toaster",
+        "OPT3": "Armoire",
+        "OPT4": "Lamp",
+        "_id": 89
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals56",
+        "OPT1": "Coyote",
+        "OPT2": "Hippopotamus",
+        "OPT3": "Ox",
+        "OPT4": "Monitor Lizard",
+        "_id": 90
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "East Timor (Timor-Leste)",
+        "OPT1": "Dili",
+        "OPT2": "Asunción",
+        "OPT3": "Reykjavík",
+        "OPT4": "Harare",
+        "_id": 91
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Greenland",
+        "OPT1": "Nuuk",
+        "OPT2": "Panama City",
+        "OPT3": "Thimphu",
+        "OPT4": "Avarua",
+        "_id": 92
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Belarus",
+        "OPT1": "Minsk",
+        "OPT2": "Nicosia",
+        "OPT3": "Yerevan",
+        "OPT4": "Caracas",
+        "_id": 93
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_zimbabwe",
+        "OPT1": "Zimbabwe",
+        "OPT2": "The Sahrawi Arab Democratic Republic",
+        "OPT3": "Antigua and Barbuda",
+        "OPT4": "Armenia",
+        "_id": 94
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_burundi",
+        "OPT1": "Burundi",
+        "OPT2": "Moldova",
+        "OPT3": "iceland",
+        "OPT4": "Libya",
+        "_id": 95
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_alandislands",
+        "OPT1": "Aland islands",
+        "OPT2": "Guyana",
+        "OPT3": "Swaziland",
+        "OPT4": "Cape Verde",
+        "_id": 96
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals196",
+        "OPT1": "Yak",
+        "OPT2": "Pheasant",
+        "OPT3": "Ant",
+        "OPT4": "Sea Lion",
+        "_id": 97
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler57",
+        "OPT1": "Black Currant",
+        "OPT2": "Pomegranate",
+        "OPT3": "Eggplant",
+        "OPT4": "Green Grapes",
+        "_id": 98
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cocosislands",
+        "OPT1": "Coco islands",
+        "OPT2": "Brunei",
+        "OPT3": "Equatorial Guinea",
+        "OPT4": "Lesotho",
+        "_id": 99
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Philippines",
+        "OPT1": "Manila",
+        "OPT2": "The Valley",
+        "OPT3": "Porto-Novo (official)",
+        "OPT4": "Yamoussoukro (official)",
+        "_id": 100
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Burundi",
+        "OPT1": "Bujumbura",
+        "OPT2": "Dili",
+        "OPT3": "Skopje",
+        "OPT4": "Flying Fish Cove",
+        "_id": 101
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_pakistan",
+        "OPT1": "Pakistan",
+        "OPT2": "The Cook islands",
+        "OPT3": "Angola",
+        "OPT4": "Cape Verde",
+        "_id": 102
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt045",
+        "OPT1": "Light Bulbs",
+        "OPT2": "Extension Cord",
+        "OPT3": "Clock",
+        "OPT4": "Paper",
+        "_id": 103
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_sahrawi_arab_democratic_republic",
+        "OPT1": "The Sahrawi Arab Democratic Republic",
+        "OPT2": "Cameroon",
+        "OPT3": "The Republic of the Congo",
+        "OPT4": "Saudi Arabia",
+        "_id": 104
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt061",
+        "OPT1": "Piano",
+        "OPT2": "Drill",
+        "OPT3": "Door Stop",
+        "OPT4": "Cushions",
+        "_id": 105
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cuba",
+        "OPT1": "Cuba",
+        "OPT2": "Namibia",
+        "OPT3": "Mauritius",
+        "OPT4": "Paraguay",
+        "_id": 106
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Swaziland",
+        "OPT1": "Mbabane (administrative)",
+        "OPT2": "Bujumbura",
+        "OPT3": "Sukhumi",
+        "OPT4": "Naypyidaw",
+        "_id": 107
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bolivia",
+        "OPT1": "Bolivia",
+        "OPT2": "Japan",
+        "OPT3": "Pakistan",
+        "OPT4": "Senegal",
+        "_id": 108
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals134",
+        "OPT1": "Ostrich",
+        "OPT2": "Lizard",
+        "OPT3": "Albatross",
+        "OPT4": "Piranha",
+        "_id": 109
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ivory Coast",
+        "OPT1": "Yamoussoukro (official)",
+        "OPT2": "Damascus",
+        "OPT3": "Mogadishu",
+        "OPT4": "Budapest",
+        "_id": 110
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt089",
+        "OPT1": "Toothbrush",
+        "OPT2": "Dressers",
+        "OPT3": "Sponge",
+        "OPT4": "Sneakers",
+        "_id": 111
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt117",
+        "OPT1": "Ironing Board",
+        "OPT2": "Socks",
+        "OPT3": "Pencil",
+        "OPT4": "Backpack",
+        "_id": 112
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler26",
+        "OPT1": "Prickly Pear",
+        "OPT2": "Peach",
+        "OPT3": "Peas",
+        "OPT4": "Black Currant",
+        "_id": 113
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_lebanon",
+        "OPT1": "Lebanon",
+        "OPT2": "Nagorno-Karabakh",
+        "OPT3": "Mozambique",
+        "OPT4": "Vietnam",
+        "_id": 114
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_peru",
+        "OPT1": "Peru",
+        "OPT2": "Tuvalu",
+        "OPT3": "Russia",
+        "OPT4": "Venezuela",
+        "_id": 115
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_guatemala",
+        "OPT1": "Guatemala",
+        "OPT2": "Greece",
+        "OPT3": "Grenada",
+        "OPT4": "Brazil",
+        "_id": 116
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mauritania",
+        "OPT1": "Nouakchott",
+        "OPT2": "Kiev",
+        "OPT3": "Sucre (constitutional)",
+        "OPT4": "Tegucigalpa",
+        "_id": 117
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "United States",
+        "OPT1": "Washington, D.C.",
+        "OPT2": "Willemstad",
+        "OPT3": "Santiago (official)",
+        "OPT4": "Tskhinvali",
+        "_id": 118
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals5",
+        "OPT1": "Albatross",
+        "OPT2": "Lobster",
+        "OPT3": "Boar ",
+        "OPT4": "Anaconda",
+        "_id": 119
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt028",
+        "OPT1": "Dressers",
+        "OPT2": "Heater",
+        "OPT3": "Oven",
+        "OPT4": "Refrigerator",
+        "_id": 120
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Netherlands",
+        "OPT1": "Amsterdam",
+        "OPT2": "Lima",
+        "OPT3": "Baku",
+        "OPT4": "Wellington",
+        "_id": 121
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cambodia",
+        "OPT1": "Phnom Penh",
+        "OPT2": "St. John's",
+        "OPT3": "Singapore",
+        "OPT4": "Tehran",
+        "_id": 122
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals179",
+        "OPT1": "Tarantula",
+        "OPT2": "Salmon",
+        "OPT3": "Weasel",
+        "OPT4": "Penguin",
+        "_id": 123
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sweden",
+        "OPT1": "Sweden",
+        "OPT2": "Uruguay",
+        "OPT3": "Guinea-Bissau",
+        "OPT4": "Finland",
+        "_id": 124
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler91",
+        "OPT1": "Papaya",
+        "OPT2": "Apricot",
+        "OPT3": "Mushroom",
+        "OPT4": "Kumquat",
+        "_id": 125
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt053",
+        "OPT1": "Musical Instruments",
+        "OPT2": "Flashlight",
+        "OPT3": "TV",
+        "OPT4": "Bookcase",
+        "_id": 126
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler31",
+        "OPT1": "Asparagus",
+        "OPT2": "Prickly Pear",
+        "OPT3": "Cantaloupe",
+        "OPT4": "Tangerine",
+        "_id": 127
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt069",
+        "OPT1": "Rug",
+        "OPT2": "Magnets",
+        "OPT3": "Mug",
+        "OPT4": "Light Switch",
+        "_id": 128
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_republic_of_china",
+        "OPT1": "The Republic of China",
+        "OPT2": "Kenya",
+        "OPT3": "Jordan",
+        "OPT4": "Romania",
+        "_id": 129
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt035",
+        "OPT1": "Fire Extinguisher",
+        "OPT2": "Books",
+        "OPT3": "Backpack",
+        "OPT4": "Coat Hanger",
+        "_id": 130
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt016",
+        "OPT1": "Clock",
+        "OPT2": "Screw Driver",
+        "OPT3": "Candles",
+        "OPT4": "Dishwasher",
+        "_id": 131
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt006",
+        "OPT1": "Blinds",
+        "OPT2": "Bedspread",
+        "OPT3": "Speakers",
+        "OPT4": "Armoire",
+        "_id": 132
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_south_sudan",
+        "OPT1": "South Sudan",
+        "OPT2": "Mexico",
+        "OPT3": "Kyrgyzstan",
+        "OPT4": "Cuba",
+        "_id": 133
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt063",
+        "OPT1": "Pitcher",
+        "OPT2": "Linens",
+        "OPT3": "Plastic Plates",
+        "OPT4": "Curtains",
+        "_id": 134
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals84",
+        "OPT1": "Gorilla",
+        "OPT2": "Cheetah",
+        "OPT3": "Beaver",
+        "OPT4": "Reindeer",
+        "_id": 135
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals17",
+        "OPT1": "Donkey",
+        "OPT2": "Hyena",
+        "OPT3": "Chicken",
+        "OPT4": "Water Buffalo",
+        "_id": 136
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler12",
+        "OPT1": "Peach",
+        "OPT2": "Watercress",
+        "OPT3": "Cauliflower",
+        "OPT4": "Raspberry",
+        "_id": 137
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Libya",
+        "OPT1": "Tripoli",
+        "OPT2": "Charlotte Amalie",
+        "OPT3": "Basseterre",
+        "OPT4": "Lilongwe",
+        "_id": 138
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_algeria",
+        "OPT1": "Algeria",
+        "OPT2": "North Korea",
+        "OPT3": "Chad",
+        "OPT4": "Mozambique",
+        "_id": 139
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt054",
+        "OPT1": "Note Paper",
+        "OPT2": "Radio",
+        "OPT3": "Light Switch",
+        "OPT4": "Speakers",
+        "_id": 140
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_uzbekistan",
+        "OPT1": "Uzbekistan",
+        "OPT2": "Norway",
+        "OPT3": "Paraguay",
+        "OPT4": "France",
+        "_id": 141
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals32",
+        "OPT1": "Boa Snake",
+        "OPT2": "Haddock",
+        "OPT3": "Piranha",
+        "OPT4": "Gull",
+        "_id": 142
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals173",
+        "OPT1": "Spider",
+        "OPT2": "Starfish",
+        "OPT3": "Lice",
+        "OPT4": "Muskox",
+        "_id": 143
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_united_kingdom",
+        "OPT1": "The United Kingdom",
+        "OPT2": "Bangladesh",
+        "OPT3": "Nagorno-Karabakh",
+        "OPT4": "Israel",
+        "_id": 144
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler44",
+        "OPT1": "Cabbage",
+        "OPT2": "Blueberry",
+        "OPT3": "Raspberry",
+        "OPT4": "Brussels Sprouts",
+        "_id": 145
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "ireland",
+        "OPT1": "Dublin",
+        "OPT2": "St. Peter Port",
+        "OPT3": "Nuuk",
+        "OPT4": "Kabul",
+        "_id": 146
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_gibraltar",
+        "OPT1": "Gibraltar",
+        "OPT2": "Ivory Coast",
+        "OPT3": "Greece",
+        "OPT4": "Tonga",
+        "_id": 147
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Republic of the Congo",
+        "OPT1": "Brazzaville",
+        "OPT2": "Gibraltar",
+        "OPT3": "Plymouth (official)",
+        "OPT4": "Mexico City",
+        "_id": 148
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt072",
+        "OPT1": "Screw Driver",
+        "OPT2": "Mop",
+        "OPT3": "Markers",
+        "OPT4": "Sneakers",
+        "_id": 149
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals183",
+        "OPT1": "Tortoise",
+        "OPT2": "Raccoon",
+        "OPT3": "Sheep",
+        "OPT4": "Mockingbird",
+        "_id": 150
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals37",
+        "OPT1": "Butterfly",
+        "OPT2": "Polar Bear",
+        "OPT3": "Jackal",
+        "OPT4": "Mouse",
+        "_id": 151
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals120",
+        "OPT1": "Mockingbird",
+        "OPT2": "Otter",
+        "OPT3": "Baboon",
+        "OPT4": "Jackal",
+        "_id": 152
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_somaliland",
+        "OPT1": "Somaliland",
+        "OPT2": "Zambia",
+        "OPT3": "The Netherlands",
+        "OPT4": "Greece",
+        "_id": 153
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_england",
+        "OPT1": "England",
+        "OPT2": "South Sudan",
+        "OPT3": "Denmark",
+        "OPT4": "Benin",
+        "_id": 154
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_poland",
+        "OPT1": "Poland",
+        "OPT2": "Tunisia",
+        "OPT3": "Cyprus",
+        "OPT4": "Kosovo",
+        "_id": 155
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Barbados",
+        "OPT1": "Bridgetown",
+        "OPT2": "Vatican City",
+        "OPT3": "Copenhagen",
+        "OPT4": "Abuja",
+        "_id": 156
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals50",
+        "OPT1": "Clownfish",
+        "OPT2": "Antelope",
+        "OPT3": "Impala",
+        "OPT4": "Camel",
+        "_id": 157
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Greece",
+        "OPT1": "Athens",
+        "OPT2": "Kathmandu",
+        "OPT3": "Asmara",
+        "OPT4": "Rabat",
+        "_id": 158
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "São Tomé and Príncipe",
+        "OPT1": "São Tomé",
+        "OPT2": "Yaren (de facto)",
+        "OPT3": "Conakry",
+        "OPT4": "Freetown",
+        "_id": 159
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Lucia",
+        "OPT1": "Castries",
+        "OPT2": "Bandar Seri Begawan",
+        "OPT3": "Roseau",
+        "OPT4": "Gibraltar",
+        "_id": 160
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals66",
+        "OPT1": "Eagle",
+        "OPT2": "Camel",
+        "OPT3": "Catfish",
+        "OPT4": "Firefly",
+        "_id": 161
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals31",
+        "OPT1": "Blue Whale",
+        "OPT2": "Bee",
+        "OPT3": "Hamster",
+        "OPT4": "Beaver",
+        "_id": 162
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals126",
+        "OPT1": "Moth",
+        "OPT2": "Monitor Lizard",
+        "OPT3": "Ostrich",
+        "OPT4": "Land Snail",
+        "_id": 163
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Nagorno-Karabakh Republic",
+        "OPT1": "Stepanakert",
+        "OPT2": "Asmara",
+        "OPT3": "Kingston",
+        "OPT4": "Mogadishu",
+        "_id": 164
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_hungary",
+        "OPT1": "Hungary",
+        "OPT2": "Burundi",
+        "OPT3": "ireland",
+        "OPT4": "Ivory Coast",
+        "_id": 165
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler42",
+        "OPT1": "Onion",
+        "OPT2": "Brussels Sprouts",
+        "OPT3": "Artichoke",
+        "OPT4": "Watercress",
+        "_id": 166
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Antigua and Barbuda",
+        "OPT1": "St. John's",
+        "OPT2": "Andorra la Vella",
+        "OPT3": "Maseru",
+        "OPT4": "Panama City",
+        "_id": 167
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals153",
+        "OPT1": "Rabbit",
+        "OPT2": "Rooster",
+        "OPT3": "Salmon",
+        "OPT4": "Badger",
+        "_id": 168
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt085",
+        "OPT1": "Timer",
+        "OPT2": "Calendar",
+        "OPT3": "Bedding",
+        "OPT4": "Carpet",
+        "_id": 169
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler4",
+        "OPT1": "Fig",
+        "OPT2": "Red Apple",
+        "OPT3": "Avacado",
+        "OPT4": "Chili Pepper",
+        "_id": 170
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Marshall islands",
+        "OPT1": "Majuro",
+        "OPT2": "Santiago (official)",
+        "OPT3": "Vatican City",
+        "OPT4": "Lusaka",
+        "_id": 171
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals151",
+        "OPT1": "Python",
+        "OPT2": "Tiger",
+        "OPT3": "Barracuda",
+        "OPT4": "Boar ",
+        "_id": 172
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler21",
+        "OPT1": "Nectarine",
+        "OPT2": "Acorn Squash",
+        "OPT3": "Red Bell Pepper",
+        "OPT4": "Cranberry",
+        "_id": 173
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_canada",
+        "OPT1": "Canada",
+        "OPT2": "Tonga",
+        "OPT3": "Monaco",
+        "OPT4": "Belarus",
+        "_id": 174
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals177",
+        "OPT1": "Swan",
+        "OPT2": "Coyote",
+        "OPT3": "Platypus ",
+        "OPT4": "Squirrel",
+        "_id": 175
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_nigeria",
+        "OPT1": "Nigeria",
+        "OPT2": "Vietnam",
+        "OPT3": "El Salvador",
+        "OPT4": "Cameroon",
+        "_id": 176
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals115",
+        "OPT1": "Lice",
+        "OPT2": "Butterfly",
+        "OPT3": "Duck",
+        "OPT4": "Mole",
+        "_id": 177
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals155",
+        "OPT1": "Rat",
+        "OPT2": "Catfish",
+        "OPT3": "Shrimp",
+        "OPT4": "Donkey",
+        "_id": 178
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals74",
+        "OPT1": "Fly",
+        "OPT2": "Leopard",
+        "OPT3": "Water Buffalo",
+        "OPT4": "Catfish",
+        "_id": 179
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sudan",
+        "OPT1": "Sudan",
+        "OPT2": "The People's Republic of China",
+        "OPT3": "Latvia",
+        "OPT4": "Tuvalu",
+        "_id": 180
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals42",
+        "OPT1": "Caterpillar",
+        "OPT2": "Sole",
+        "OPT3": "Eagle",
+        "OPT4": "Parrot",
+        "_id": 181
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler40",
+        "OPT1": "Rutabaga",
+        "OPT2": "Tomato",
+        "OPT3": "Cherry",
+        "OPT4": "Red Apple",
+        "_id": 182
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals9",
+        "OPT1": "Ant",
+        "OPT2": "Horse",
+        "OPT3": "Tuna",
+        "OPT4": "Python",
+        "_id": 183
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals178",
+        "OPT1": "Tapir",
+        "OPT2": "Python",
+        "OPT3": "Cockroach",
+        "OPT4": "Woodpecker",
+        "_id": 184
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals113",
+        "OPT1": "Llama",
+        "OPT2": "Wolf",
+        "OPT3": "Squirrel",
+        "OPT4": "Cuckoo",
+        "_id": 185
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Pakistan",
+        "OPT1": "Islamabad",
+        "OPT2": "Sarajevo",
+        "OPT3": "Yaoundé",
+        "OPT4": "Jakarta",
+        "_id": 186
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Luxembourg",
+        "OPT1": "Luxembourg",
+        "OPT2": "Chisinau",
+        "OPT3": "Nouméa",
+        "OPT4": "Jerusalem (declared, de facto)",
+        "_id": 187
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals98",
+        "OPT1": "Impala",
+        "OPT2": "Hummingbird",
+        "OPT3": "Tortoise",
+        "OPT4": "Barracuda",
+        "_id": 188
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Belize",
+        "OPT1": "Belmopan",
+        "OPT2": "Minsk",
+        "OPT3": "Hagåtña",
+        "OPT4": "Accra",
+        "_id": 189
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_india",
+        "OPT1": "India",
+        "OPT2": "The Solomon islands",
+        "OPT3": "Poland",
+        "OPT4": "Egypt",
+        "_id": 190
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kosovo",
+        "OPT1": "Pristina",
+        "OPT2": "Manama",
+        "OPT3": "Ankara",
+        "OPT4": "Stockholm",
+        "_id": 191
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler85",
+        "OPT1": "Blueberry",
+        "OPT2": "Shallot",
+        "OPT3": "Potato",
+        "OPT4": "Dragonfruit",
+        "_id": 192
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cameroon",
+        "OPT1": "Yaoundé",
+        "OPT2": "Kinshasa",
+        "OPT3": "Ouagadougou",
+        "OPT4": "Plymouth (official)",
+        "_id": 193
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Monaco",
+        "OPT1": "Monaco",
+        "OPT2": "Oslo",
+        "OPT3": "Ottawa",
+        "OPT4": "Asunción",
+        "_id": 194
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Botswana",
+        "OPT1": "Gaborone",
+        "OPT2": "Antananarivo",
+        "OPT3": "Taipei",
+        "OPT4": "Palikir",
+        "_id": 195
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt077",
+        "OPT1": "Sneakers",
+        "OPT2": "Lamp",
+        "OPT3": "File Cabinet",
+        "OPT4": "Medicine",
+        "_id": 196
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ukraine",
+        "OPT1": "Ukraine",
+        "OPT2": "Cuba",
+        "OPT3": "South Ossetia",
+        "OPT4": "Syria",
+        "_id": 197
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt041",
+        "OPT1": "Heater",
+        "OPT2": "Pencil",
+        "OPT3": "Ironing Board",
+        "OPT4": "Pants",
+        "_id": 198
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Uzbekistan",
+        "OPT1": "Tashkent",
+        "OPT2": "Dublin",
+        "OPT3": "Hanoi",
+        "OPT4": "Port of Spain",
+        "_id": 199
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Andorra",
+        "OPT1": "Andorra la Vella",
+        "OPT2": "Sri Jayawardenepura Kotte (official)",
+        "OPT3": "Sofia",
+        "OPT4": "Melekeok (official)",
+        "_id": 200
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sweden",
+        "OPT1": "Stockholm",
+        "OPT2": "Paramaribo",
+        "OPT3": "Moroni",
+        "OPT4": "Skopje",
+        "_id": 201
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Afghanistan",
+        "OPT1": "Kabul",
+        "OPT2": "Sukhumi",
+        "OPT3": "Stepanakert",
+        "OPT4": "Buenos Aires",
+        "_id": 202
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt048",
+        "OPT1": "Markers",
+        "OPT2": "Credenza",
+        "OPT3": "Shirt",
+        "OPT4": "Toothpaste",
+        "_id": 203
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals147",
+        "OPT1": "Pony",
+        "OPT2": "Bonobo",
+        "OPT3": "Pigeon",
+        "OPT4": "Ox",
+        "_id": 204
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Iceland",
+        "OPT1": "Reykjavík",
+        "OPT2": "Tokyo",
+        "OPT3": "West island",
+        "OPT4": "Dodoma (official), Dar es Salaam (former capital)",
+        "_id": 205
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Falkland islands",
+        "OPT1": "Stanley",
+        "OPT2": "Berlin",
+        "OPT3": "Nicosia",
+        "OPT4": "Addis Ababa",
+        "_id": 206
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals128",
+        "OPT1": "Mouse",
+        "OPT2": "Tarantula",
+        "OPT3": "Gull",
+        "OPT4": "Bald Eagle",
+        "_id": 207
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ethiopia",
+        "OPT1": "Addis Ababa",
+        "OPT2": "Baghdad",
+        "OPT3": "Flying Fish Cove",
+        "OPT4": "Riga",
+        "_id": 208
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt042",
+        "OPT1": "Houseplant",
+        "OPT2": "Toilet Paper",
+        "OPT3": "Forks",
+        "OPT4": "Extension Cord",
+        "_id": 209
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler71",
+        "OPT1": "Radish",
+        "OPT2": "Gooseberry",
+        "OPT3": "Turnip",
+        "OPT4": "Apricot",
+        "_id": 210
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sri_lanka",
+        "OPT1": "Sri Lanka",
+        "OPT2": "Fiji",
+        "OPT3": "Papua New Guinea",
+        "OPT4": "Nicaragua",
+        "_id": 211
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_macau",
+        "OPT1": "Macau",
+        "OPT2": "Eritrea",
+        "OPT3": "Senegal",
+        "OPT4": "Haiti",
+        "_id": 212
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals19",
+        "OPT1": "Badger",
+        "OPT2": "Kangaroo",
+        "OPT3": "Muskox",
+        "OPT4": "Lizard",
+        "_id": 213
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_chile",
+        "OPT1": "Chile",
+        "OPT2": "Suriname",
+        "OPT3": "Egypt",
+        "OPT4": "Zambia",
+        "_id": 214
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt107",
+        "OPT1": "Saucer",
+        "OPT2": "Coat Hanger",
+        "OPT3": "Flower",
+        "OPT4": "Oven",
+        "_id": 215
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_marshall_islands",
+        "OPT1": "The Marshall islands",
+        "OPT2": "Malta",
+        "OPT3": "Liechtenstein",
+        "OPT4": "Brunei",
+        "_id": 216
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt012",
+        "OPT1": "Candles",
+        "OPT2": "Iron",
+        "OPT3": "Carpet",
+        "OPT4": "Dressers",
+        "_id": 217
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals109",
+        "OPT1": "Lemur",
+        "OPT2": "Elk",
+        "OPT3": "Donkey",
+        "OPT4": "Pony",
+        "_id": 218
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals28",
+        "OPT1": "Beetle",
+        "OPT2": "Muskox",
+        "OPT3": "Meerkat",
+        "OPT4": "Gazelle",
+        "_id": 219
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals190",
+        "OPT1": "Water Buffalo",
+        "OPT2": "Sparrow",
+        "OPT3": "Haddock",
+        "OPT4": "Baboon",
+        "_id": 220
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals159",
+        "OPT1": "Rhinoceros",
+        "OPT2": "Gull",
+        "OPT3": "Puffin",
+        "OPT4": "Elk",
+        "_id": 221
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals24",
+        "OPT1": "Bear ",
+        "OPT2": "Hawk",
+        "OPT3": "Antelope",
+        "OPT4": "Tasmanian Devil",
+        "_id": 222
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals72",
+        "OPT1": "Firefly",
+        "OPT2": "Owl",
+        "OPT3": "Clam",
+        "OPT4": "Roadrunner",
+        "_id": 223
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler59",
+        "OPT1": "Pomelo",
+        "OPT2": "Jujube",
+        "OPT3": "Tangerine",
+        "OPT4": "Garlic",
+        "_id": 224
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kenya",
+        "OPT1": "Nairobi",
+        "OPT2": "Budapest",
+        "OPT3": "Jerusalem (declared)",
+        "OPT4": "Taipei",
+        "_id": 225
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals44",
+        "OPT1": "Centipede",
+        "OPT2": "Elephant",
+        "OPT3": "Carp",
+        "OPT4": "Flamingo",
+        "_id": 226
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Turkey",
+        "OPT1": "Ankara",
+        "OPT2": "Libreville",
+        "OPT3": "Quito",
+        "OPT4": "Sukhumi",
+        "_id": 227
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Slovenia",
+        "OPT1": "Ljubljana",
+        "OPT2": "Dhaka",
+        "OPT3": "Seoul",
+        "OPT4": "Pyongyang",
+        "_id": 228
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler56",
+        "OPT1": "Lemon",
+        "OPT2": "Pumpkin",
+        "OPT3": "Green Grapes",
+        "OPT4": "Endive Lettuce",
+        "_id": 229
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Martin",
+        "OPT1": "Marigot",
+        "OPT2": "Caracas",
+        "OPT3": "Praia",
+        "OPT4": "Djibouti",
+        "_id": 230
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_djibouti",
+        "OPT1": "Djibouti",
+        "OPT2": "Mauritania",
+        "OPT3": "Honduras",
+        "OPT4": "Liechtenstein",
+        "_id": 231
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals139",
+        "OPT1": "Peacock",
+        "OPT2": "Monkey",
+        "OPT3": "Parrot",
+        "OPT4": "Zebra",
+        "_id": 232
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mozambique",
+        "OPT1": "Mozambique",
+        "OPT2": "Venezuela",
+        "OPT3": "Lesotho",
+        "OPT4": "Ghana",
+        "_id": 233
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Jamaica",
+        "OPT1": "Kingston",
+        "OPT2": "Podgorica (official)",
+        "OPT3": "Cockburn Town",
+        "OPT4": "Montevideo",
+        "_id": 234
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals135",
+        "OPT1": "Otter",
+        "OPT2": "Earthworm",
+        "OPT3": "Snail",
+        "OPT4": "Deer",
+        "_id": 235
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals131",
+        "OPT1": "Opossum",
+        "OPT2": "Alligator",
+        "OPT3": "Orca",
+        "OPT4": "Bonobo",
+        "_id": 236
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Latvia",
+        "OPT1": "Riga",
+        "OPT2": "Tegucigalpa",
+        "OPT3": "Juba",
+        "OPT4": "Tbilisi (official)",
+        "_id": 237
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Russia",
+        "OPT1": "Moscow",
+        "OPT2": "Ashgabat",
+        "OPT3": "Algiers",
+        "OPT4": "Asmara",
+        "_id": 238
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_barbados",
+        "OPT1": "Barbados",
+        "OPT2": "Qatar",
+        "OPT3": "The Central African Republic",
+        "OPT4": "Madagascar",
+        "_id": 239
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bosnia_and_herzegovina",
+        "OPT1": "Bosnia and Herzegovina",
+        "OPT2": "Ghana",
+        "OPT3": "France",
+        "OPT4": "Guyana",
+        "_id": 240
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals123",
+        "OPT1": "Monkey",
+        "OPT2": "Barracuda",
+        "OPT3": "Guinea Pig",
+        "OPT4": "Opossum",
+        "_id": 241
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt094",
+        "OPT1": "Vase",
+        "OPT2": "Timer",
+        "OPT3": "Books",
+        "OPT4": "Flashlight",
+        "_id": 242
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_bahamas",
+        "OPT1": "The Bahamas",
+        "OPT2": "Cambodia",
+        "OPT3": "Croatia",
+        "OPT4": "Portugal",
+        "_id": 243
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Qatar",
+        "OPT1": "Doha",
+        "OPT2": "Banjul",
+        "OPT3": "Port of Spain",
+        "OPT4": "Brazzaville",
+        "_id": 244
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler43",
+        "OPT1": "Brussels Sprouts",
+        "OPT2": "Pomelo",
+        "OPT3": "Apricot",
+        "OPT4": "Cucumber",
+        "_id": 245
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals162",
+        "OPT1": "Salmon",
+        "OPT2": "Koala",
+        "OPT3": "Jaguar",
+        "OPT4": "Rabbit",
+        "_id": 246
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals99",
+        "OPT1": "Jackal",
+        "OPT2": "Zebra",
+        "OPT3": "Fox",
+        "OPT4": "Goose",
+        "_id": 247
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_argentina",
+        "OPT1": "Argentina",
+        "OPT2": "Lithuania",
+        "OPT3": "Zambia",
+        "OPT4": "The Democratic Republic of the Congo",
+        "_id": 248
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Vatican City",
+        "OPT1": "Vatican City",
+        "OPT2": "Dodoma (official), Dar es Salaam (former capital)",
+        "OPT3": "Hanga Roa",
+        "OPT4": "West island",
+        "_id": 249
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_angola",
+        "OPT1": "Angola",
+        "OPT2": "Slovenia",
+        "OPT3": "Equatorial Guinea",
+        "OPT4": "The Republic of the Congo",
+        "_id": 250
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tunisia",
+        "OPT1": "Tunisia",
+        "OPT2": "ireland",
+        "OPT3": "Somaliland",
+        "OPT4": "Abkhazia",
+        "_id": 251
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Jordan",
+        "OPT1": "Amman",
+        "OPT2": "Bangkok",
+        "OPT3": "Bangui",
+        "OPT4": "Maseru",
+        "_id": 252
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_hongkong",
+        "OPT1": "Hong Kong",
+        "OPT2": "Malawi",
+        "OPT3": "Argentina",
+        "OPT4": "Japan",
+        "_id": 253
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_portugal",
+        "OPT1": "Portugal",
+        "OPT2": "Jordan",
+        "OPT3": "South Africa",
+        "OPT4": "Trinidad and Tobago",
+        "_id": 254
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Rwanda",
+        "OPT1": "Kigali",
+        "OPT2": "Kabul",
+        "OPT3": "Tarawa",
+        "OPT4": "St. Pierre",
+        "_id": 255
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_north_korea",
+        "OPT1": "North Korea",
+        "OPT2": "Tanzania",
+        "OPT3": "Dominica",
+        "OPT4": "Tajikistan",
+        "_id": 256
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals71",
+        "OPT1": "Falcon",
+        "OPT2": "Gazelle",
+        "OPT3": "Monitor Lizard",
+        "OPT4": "Cobra",
+        "_id": 257
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Iran",
+        "OPT1": "Tehran",
+        "OPT2": "Djibouti",
+        "OPT3": "Palikir",
+        "OPT4": "Dili",
+        "_id": 258
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals130",
+        "OPT1": "Octopus",
+        "OPT2": "Quail",
+        "OPT3": "Rabbit",
+        "OPT4": "Seahorse",
+        "_id": 259
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tristan da Cunha",
+        "OPT1": "Edinburgh of the Seven Seas",
+        "OPT2": "Athens",
+        "OPT3": "Havana",
+        "OPT4": "Reykjavík",
+        "_id": 260
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Paraguay",
+        "OPT1": "Asunción",
+        "OPT2": "Skopje",
+        "OPT3": "San José",
+        "OPT4": "Lomé",
+        "_id": 261
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_guyana",
+        "OPT1": "Guyana",
+        "OPT2": "Jamaica",
+        "OPT3": "Belarus",
+        "OPT4": "Botswana",
+        "_id": 262
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Nauru",
+        "OPT1": "Yaren (de facto)",
+        "OPT2": "TIrana",
+        "OPT3": "Abu Dhabi",
+        "OPT4": "Banjul",
+        "_id": 263
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_caymanislands",
+        "OPT1": "Cayman islands",
+        "OPT2": "Liechtenstein",
+        "OPT3": "Senegal",
+        "OPT4": "Moldova",
+        "_id": 264
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Austria",
+        "OPT1": "Vienna",
+        "OPT2": "Conakry",
+        "OPT3": "Naypyidaw",
+        "OPT4": "Dublin",
+        "_id": 265
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals186",
+        "OPT1": "Turtle",
+        "OPT2": "Wallaby",
+        "OPT3": "Crab",
+        "OPT4": "Mountain Goat",
+        "_id": 266
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guam",
+        "OPT1": "Hagåtña",
+        "OPT2": "Alofi",
+        "OPT3": "Tehran",
+        "OPT4": "Riyadh",
+        "_id": 267
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals40",
+        "OPT1": "Caribou",
+        "OPT2": "Badger",
+        "OPT3": "Goldfish",
+        "OPT4": "Armadillo",
+        "_id": 268
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "South Korea",
+        "OPT1": "Seoul",
+        "OPT2": "Khartoum",
+        "OPT3": "Madrid",
+        "OPT4": "Sana'a",
+        "_id": 269
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals163",
+        "OPT1": "Scorpion",
+        "OPT2": "Octopus",
+        "OPT3": "Sea Lion",
+        "OPT4": "Lynx",
+        "_id": 270
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tanzania",
+        "OPT1": "Tanzania",
+        "OPT2": "Madagascar",
+        "OPT3": "Maldives",
+        "OPT4": "Somalia",
+        "_id": 271
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt033",
+        "OPT1": "Extension Cord",
+        "OPT2": "Candles",
+        "OPT3": "Curtains",
+        "OPT4": "Heater",
+        "_id": 272
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt049",
+        "OPT1": "Medicine",
+        "OPT2": "Flatware",
+        "OPT3": "Fire Extinguisher",
+        "OPT4": "Rug",
+        "_id": 273
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt031",
+        "OPT1": "Dust Pan",
+        "OPT2": "Bookcase",
+        "OPT3": "Suitcase",
+        "OPT4": "Bedspread",
+        "_id": 274
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals69",
+        "OPT1": "Elephant",
+        "OPT2": "Macaw",
+        "OPT3": "Spider",
+        "OPT4": "Chimpanzee",
+        "_id": 275
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals197",
+        "OPT1": "Zebra",
+        "OPT2": "Stork",
+        "OPT3": "Elephant",
+        "OPT4": "Beetle",
+        "_id": 276
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler2",
+        "OPT1": "Banana",
+        "OPT2": "Dragonfruit",
+        "OPT3": "Pumpkin",
+        "OPT4": "Cauliflower",
+        "_id": 277
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Algeria",
+        "OPT1": "Algiers",
+        "OPT2": "San Juan",
+        "OPT3": "Cayenne",
+        "OPT4": "Sarajevo",
+        "_id": 278
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Armenia",
+        "OPT1": "Yerevan",
+        "OPT2": "Harare",
+        "OPT3": "Victoria",
+        "OPT4": "Guatemala City",
+        "_id": 279
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Aruba",
+        "OPT1": "Oranjestad",
+        "OPT2": "Ulan Bator",
+        "OPT3": "Djibouti",
+        "OPT4": "Kathmandu",
+        "_id": 280
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kenya",
+        "OPT1": "Kenya",
+        "OPT2": "Costa Rica",
+        "OPT3": "Palau",
+        "OPT4": "Zimbabwe",
+        "_id": 281
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt097",
+        "OPT1": "Backpack",
+        "OPT2": "Computer",
+        "OPT3": "Comb",
+        "OPT4": "Sofa",
+        "_id": 282
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Montenegro",
+        "OPT1": "Podgorica (official)",
+        "OPT2": "Porto-Novo (official)",
+        "OPT3": "Helsinki",
+        "OPT4": "Tórshavn",
+        "_id": 283
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals41",
+        "OPT1": "Carp",
+        "OPT2": "Crow",
+        "OPT3": "Opossum",
+        "OPT4": "Termite",
+        "_id": 284
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "American Samoa",
+        "OPT1": "Pago Pago",
+        "OPT2": "Belmopan",
+        "OPT3": "Alofi",
+        "OPT4": "Tallinn",
+        "_id": 285
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Liberia",
+        "OPT1": "Monrovia",
+        "OPT2": "Plymouth (official)",
+        "OPT3": "Riyadh",
+        "OPT4": "Roseau",
+        "_id": 286
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "South Ossetia",
+        "OPT1": "Tskhinvali",
+        "OPT2": "Jakarta",
+        "OPT3": "N'Djamena",
+        "OPT4": "Jamestown",
+        "_id": 287
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bahrain",
+        "OPT1": "Manama",
+        "OPT2": "Hamilton",
+        "OPT3": "Ljubljana",
+        "OPT4": "Khartoum",
+        "_id": 288
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt081",
+        "OPT1": "Spoons",
+        "OPT2": "Forks",
+        "OPT3": "Toothbrush",
+        "OPT4": "Furnace",
+        "_id": 289
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals118",
+        "OPT1": "Marmot",
+        "OPT2": "Iguana",
+        "OPT3": "Stork",
+        "OPT4": "Orangutan",
+        "_id": 290
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bulgaria",
+        "OPT1": "Bulgaria",
+        "OPT2": "Grenada",
+        "OPT3": "Chad",
+        "OPT4": "Uganda",
+        "_id": 291
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals142",
+        "OPT1": "Pheasant",
+        "OPT2": "Weasel",
+        "OPT3": "Hippopotamus",
+        "OPT4": "Ostrich",
+        "_id": 292
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals102",
+        "OPT1": "Kangaroo",
+        "OPT2": "Vulture",
+        "OPT3": "Sole",
+        "OPT4": "Clam",
+        "_id": 293
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt052",
+        "OPT1": "Mug",
+        "OPT2": "Radiator",
+        "OPT3": "Broom",
+        "OPT4": "Dish Towel",
+        "_id": 294
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Liechtenstein",
+        "OPT1": "Vaduz",
+        "OPT2": "Nicosia",
+        "OPT3": "The Valley",
+        "OPT4": "Valletta",
+        "_id": 295
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Namibia",
+        "OPT1": "Windhoek",
+        "OPT2": "Lisbon",
+        "OPT3": "Episkopi Cantonment",
+        "OPT4": "Pristina",
+        "_id": 296
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Chad",
+        "OPT1": "N'Djamena",
+        "OPT2": "Luxembourg",
+        "OPT3": "Hargeisa",
+        "OPT4": "Dushanbe",
+        "_id": 297
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt071",
+        "OPT1": "Scissors",
+        "OPT2": "Dish Towel",
+        "OPT3": "Plate",
+        "OPT4": "Piano",
+        "_id": 298
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Brazil",
+        "OPT1": "Brasília",
+        "OPT2": "Bishkek",
+        "OPT3": "Suva",
+        "OPT4": "Hanoi",
+        "_id": 299
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_suriname",
+        "OPT1": "Suriname",
+        "OPT2": "The Dominican Republic",
+        "OPT3": "Djibouti",
+        "OPT4": "The Solomon islands",
+        "_id": 300
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Federated States of Micronesia",
+        "OPT1": "Palikir",
+        "OPT2": "Brazzaville",
+        "OPT3": "Bridgetown",
+        "OPT4": "Honiara",
+        "_id": 301
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Portugal",
+        "OPT1": "Lisbon",
+        "OPT2": "Taipei",
+        "OPT3": "Cairo",
+        "OPT4": "Quito",
+        "_id": 302
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt115",
+        "OPT1": "Dustpan And Brush",
+        "OPT2": "Smoke Detector",
+        "OPT3": "Duvet",
+        "OPT4": "Brush",
+        "_id": 303
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sierra_leone",
+        "OPT1": "Sierra Leone",
+        "OPT2": "Tajikistan",
+        "OPT3": "The Philippines",
+        "OPT4": "Malta",
+        "_id": 304
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt046",
+        "OPT1": "Light Switch",
+        "OPT2": "Washing Machine",
+        "OPT3": "Pants",
+        "OPT4": "Light Bulbs",
+        "_id": 305
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mexico",
+        "OPT1": "Mexico",
+        "OPT2": "El Salvador",
+        "OPT3": "The Federated States of Micronesia",
+        "OPT4": "Mali",
+        "_id": 306
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt023",
+        "OPT1": "Curtains",
+        "OPT2": "Fuse Box",
+        "OPT3": "Pliers",
+        "OPT4": "Phone",
+        "_id": 307
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt087",
+        "OPT1": "Toaster",
+        "OPT2": "Blinds",
+        "OPT3": "Door Knob",
+        "OPT4": "Doormat",
+        "_id": 308
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt080",
+        "OPT1": "Speakers",
+        "OPT2": "Cup",
+        "OPT3": "Paper",
+        "OPT4": "Dryer",
+        "_id": 309
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kyrgyzstan",
+        "OPT1": "Kyrgyzstan",
+        "OPT2": "Serbia",
+        "OPT3": "Mongolia",
+        "OPT4": "Mauritius",
+        "_id": 310
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt011",
+        "OPT1": "Bucket",
+        "OPT2": "Vase",
+        "OPT3": "Binders",
+        "OPT4": "Dustpan And Brush",
+        "_id": 311
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler54",
+        "OPT1": "Tomatillo",
+        "OPT2": "Raspberry",
+        "OPT3": "Blueberry",
+        "OPT4": "Fig",
+        "_id": 312
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler83",
+        "OPT1": "Red Bell Pepper",
+        "OPT2": "Banana",
+        "OPT3": "Green Beans",
+        "OPT4": "Watermelon",
+        "_id": 313
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Slovakia",
+        "OPT1": "Bratislava",
+        "OPT2": "Nouakchott",
+        "OPT3": "Kuala Lumpur (official, legislative and royal)",
+        "OPT4": "Niamey",
+        "_id": 314
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cameroon",
+        "OPT1": "Cameroon",
+        "OPT2": "Oman",
+        "OPT3": "Kenya",
+        "OPT4": "Benin",
+        "_id": 315
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt064",
+        "OPT1": "Plastic Plates",
+        "OPT2": "Microwave",
+        "OPT3": "Bin",
+        "OPT4": "Tablecloth",
+        "_id": 316
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kyrgyzstan",
+        "OPT1": "Bishkek",
+        "OPT2": "Monrovia",
+        "OPT3": "Rabat",
+        "OPT4": "San Juan",
+        "_id": 317
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals43",
+        "OPT1": "Catfish",
+        "OPT2": "Turtle",
+        "OPT3": "Bee",
+        "OPT4": "Centipede",
+        "_id": 318
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_united_arab_emirates",
+        "OPT1": "The United Arab Emirates",
+        "OPT2": "Bulgaria",
+        "OPT3": "San Marino",
+        "OPT4": "East Timor",
+        "_id": 319
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Panama",
+        "OPT1": "Panama City",
+        "OPT2": "El Aaiún (declared)",
+        "OPT3": "Tiraspol",
+        "OPT4": "Ulan Bator",
+        "_id": 320
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Denmark",
+        "OPT1": "Copenhagen",
+        "OPT2": "Canberra",
+        "OPT3": "Luanda",
+        "OPT4": "Alofi",
+        "_id": 321
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_romania",
+        "OPT1": "Romania",
+        "OPT2": "Haiti",
+        "OPT3": "Nauru",
+        "OPT4": "Singapore",
+        "_id": 322
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals77",
+        "OPT1": "Gazelle",
+        "OPT2": "Spider",
+        "OPT3": "Goat",
+        "OPT4": "Dog",
+        "_id": 323
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals175",
+        "OPT1": "Starfish",
+        "OPT2": "Carp",
+        "OPT3": "Giraffe",
+        "OPT4": "Leopard",
+        "_id": 324
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler16",
+        "OPT1": "Chili Pepper",
+        "OPT2": "Cherimoya",
+        "OPT3": "Persimmon",
+        "OPT4": "Onion",
+        "_id": 325
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_finland",
+        "OPT1": "Finland",
+        "OPT2": "Palestine",
+        "OPT3": "Canada",
+        "OPT4": "Eritrea",
+        "_id": 326
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler28",
+        "OPT1": "Blackberry",
+        "OPT2": "Spinach",
+        "OPT3": "Onion",
+        "OPT4": "Red Bell Pepper",
+        "_id": 327
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cayman islands",
+        "OPT1": "George Town",
+        "OPT2": "Bissau",
+        "OPT3": "Mexico City",
+        "OPT4": "Ouagadougou",
+        "_id": 328
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Niger",
+        "OPT1": "Niamey",
+        "OPT2": "Yerevan",
+        "OPT3": "Rome",
+        "OPT4": "Tunis",
+        "_id": 329
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Colombia",
+        "OPT1": "Bogotá",
+        "OPT2": "Cockburn Town",
+        "OPT3": "Beirut",
+        "OPT4": "Hargeisa",
+        "_id": 330
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ascension island",
+        "OPT1": "Georgetown",
+        "OPT2": "Accra",
+        "OPT3": "San Marino",
+        "OPT4": "Douglas",
+        "_id": 331
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt105",
+        "OPT1": "Oven",
+        "OPT2": "Toys",
+        "OPT3": "Extension Cord",
+        "OPT4": "Iron",
+        "_id": 332
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_grenada",
+        "OPT1": "Grenada",
+        "OPT2": "Togo",
+        "OPT3": "The Gambia",
+        "OPT4": "Mauritania",
+        "_id": 333
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_brazil",
+        "OPT1": "Brazil",
+        "OPT2": "The Central African Republic",
+        "OPT3": "Sri Lanka",
+        "OPT4": "Kuwait",
+        "_id": 334
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals164",
+        "OPT1": "Seahorse",
+        "OPT2": "Flamingo",
+        "OPT3": "Rooster",
+        "OPT4": "Moth",
+        "_id": 335
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Benin",
+        "OPT1": "Porto-Novo (official)",
+        "OPT2": "Tripoli",
+        "OPT3": "Lomé",
+        "OPT4": "Charlotte Amalie",
+        "_id": 336
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_san_marino",
+        "OPT1": "San Marino",
+        "OPT2": "The Bahamas",
+        "OPT3": "Switzerland",
+        "OPT4": "Cambodia",
+        "_id": 337
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cyprus",
+        "OPT1": "Nicosia",
+        "OPT2": "Honiara",
+        "OPT3": "St. Helier",
+        "OPT4": "Vientiane",
+        "_id": 338
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_martinique",
+        "OPT1": "Martinique",
+        "OPT2": "Saint Vincent and the Grenadines",
+        "OPT3": "The Vatican City",
+        "OPT4": "Cyprus",
+        "_id": 339
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Poland",
+        "OPT1": "Warsaw",
+        "OPT2": "São Tomé",
+        "OPT3": "Bern",
+        "OPT4": "Sucre (constitutional)",
+        "_id": 340
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_yemen",
+        "OPT1": "Yemen",
+        "OPT2": "The Czech Republic",
+        "OPT3": "The Marshall islands",
+        "OPT4": "Turkey",
+        "_id": 341
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_frenchsouthernandantarticlands",
+        "OPT1": "French Southern and Articlands",
+        "OPT2": "Austria",
+        "OPT3": "Palau",
+        "OPT4": "Georgia",
+        "_id": 342
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt005",
+        "OPT1": "Blankets",
+        "OPT2": "Dustpan And Brush",
+        "OPT3": "Dust Pan",
+        "OPT4": "Computer",
+        "_id": 343
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt051",
+        "OPT1": "Mop",
+        "OPT2": "Curtains",
+        "OPT3": "TV",
+        "OPT4": "Table",
+        "_id": 344
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_turkey",
+        "OPT1": "Turkey",
+        "OPT2": "South Africa",
+        "OPT3": "Kazakhstan",
+        "OPT4": "Mongolia",
+        "_id": 345
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_madagascar",
+        "OPT1": "Madagascar",
+        "OPT2": "The United States",
+        "OPT3": "Senegal",
+        "OPT4": "Japan",
+        "_id": 346
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Iraq",
+        "OPT1": "Baghdad",
+        "OPT2": "Lilongwe",
+        "OPT3": "Georgetown",
+        "OPT4": "Copenhagen",
+        "_id": 347
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals192",
+        "OPT1": "Whale",
+        "OPT2": "Ladybug",
+        "OPT3": "Lizard",
+        "OPT4": "Leech",
+        "_id": 348
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_greenland",
+        "OPT1": "Greenland",
+        "OPT2": "Italy",
+        "OPT3": "The Bahamas",
+        "OPT4": "Mauritius",
+        "_id": 349
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt079",
+        "OPT1": "Sofa",
+        "OPT2": "Pen",
+        "OPT3": "Dressers",
+        "OPT4": "Sweeper",
+        "_id": 350
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler79",
+        "OPT1": "Plum",
+        "OPT2": "Cantaloupe",
+        "OPT3": "Watermelon",
+        "OPT4": "Coconut",
+        "_id": 351
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Montserrat",
+        "OPT1": "Plymouth (official)",
+        "OPT2": "Pretoria (executive)",
+        "OPT3": "Dhaka",
+        "OPT4": "Hamilton",
+        "_id": 352
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals145",
+        "OPT1": "Platypus ",
+        "OPT2": "Eagle",
+        "OPT3": "Peacock",
+        "OPT4": "Lobster",
+        "_id": 353
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler27",
+        "OPT1": "Garlic",
+        "OPT2": "Olive",
+        "OPT3": "Banana",
+        "OPT4": "Kale",
+        "_id": 354
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Turkmenistan",
+        "OPT1": "Ashgabat",
+        "OPT2": "Yamoussoukro (official)",
+        "OPT3": "Gaborone",
+        "OPT4": "Kinshasa",
+        "_id": 355
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals47",
+        "OPT1": "Chimpanzee",
+        "OPT2": "Meerkat",
+        "OPT3": "Sparrow",
+        "OPT4": "Hornet",
+        "_id": 356
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Zambia",
+        "OPT1": "Lusaka",
+        "OPT2": "Malabo",
+        "OPT3": "London",
+        "OPT4": "Zagreb",
+        "_id": 357
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt059",
+        "OPT1": "Pencil",
+        "OPT2": "Chairs",
+        "OPT3": "Note Paper",
+        "OPT4": "Screw Driver",
+        "_id": 358
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mali",
+        "OPT1": "Bamako",
+        "OPT2": "Doha",
+        "OPT3": "Douglas",
+        "OPT4": "Ramallah and Gaza (de facto)",
+        "_id": 359
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ecuador",
+        "OPT1": "Ecuador",
+        "OPT2": "Italy",
+        "OPT3": "The United States",
+        "OPT4": "Malaysia",
+        "_id": 360
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals141",
+        "OPT1": "Penguin",
+        "OPT2": "Cobra",
+        "OPT3": "Praying Mantis",
+        "OPT4": "Jellyfish",
+        "_id": 361
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_fiji",
+        "OPT1": "Fiji",
+        "OPT2": "Honduras",
+        "OPT3": "Qatar",
+        "OPT4": "Lesotho",
+        "_id": 362
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_jordan",
+        "OPT1": "Jordan",
+        "OPT2": "Equatorial Guinea",
+        "OPT3": "Bangladesh",
+        "OPT4": "Belgium",
+        "_id": 363
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals10",
+        "OPT1": "Anteater",
+        "OPT2": "Praying Mantis",
+        "OPT3": "Giant Panda",
+        "OPT4": "Wasp",
+        "_id": 364
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_lesotho",
+        "OPT1": "Lesotho",
+        "OPT2": "Mozambique",
+        "OPT3": "Morocco",
+        "OPT4": "Sweden",
+        "_id": 365
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt066",
+        "OPT1": "Pliers",
+        "OPT2": "Binders",
+        "OPT3": "Towels",
+        "OPT4": "Radio",
+        "_id": 366
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler62",
+        "OPT1": "Peas",
+        "OPT2": "Blackberry",
+        "OPT3": "Chili Pepper",
+        "OPT4": "Gooseberry",
+        "_id": 367
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ethiopia",
+        "OPT1": "Ethiopia",
+        "OPT2": "Turkmenistan",
+        "OPT3": "Samoa",
+        "OPT4": "The Czech Republic",
+        "_id": 368
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_oman",
+        "OPT1": "Oman",
+        "OPT2": "Ivory Coast",
+        "OPT3": "Burundi",
+        "OPT4": "Serbia",
+        "_id": 369
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals125",
+        "OPT1": "Mosquito",
+        "OPT2": "Lemming",
+        "OPT3": "Turkey",
+        "OPT4": "Orca",
+        "_id": 370
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt021",
+        "OPT1": "Credenza",
+        "OPT2": "Backpack",
+        "OPT3": "Piano",
+        "OPT4": "Broom",
+        "_id": 371
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Macedonia",
+        "OPT1": "Skopje",
+        "OPT2": "Naypyidaw",
+        "OPT3": "Saipan",
+        "OPT4": "Mata-Utu",
+        "_id": 372
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals124",
+        "OPT1": "Moose",
+        "OPT2": "Mountain Goat",
+        "OPT3": "Armadillo",
+        "OPT4": "Ant",
+        "_id": 373
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt024",
+        "OPT1": "Cushions",
+        "OPT2": "Fire Extinguisher",
+        "OPT3": "Dishwasher",
+        "OPT4": "Couch",
+        "_id": 374
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt068",
+        "OPT1": "Refrigerator",
+        "OPT2": "Sneakers",
+        "OPT3": "Tissues",
+        "OPT4": "Suitcase",
+        "_id": 375
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler58",
+        "OPT1": "Tangerine",
+        "OPT2": "Chili Pepper",
+        "OPT3": "GrannySmithApple",
+        "OPT4": "Passion Fruit",
+        "_id": 376
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals116",
+        "OPT1": "Lynx",
+        "OPT2": "Giraffe",
+        "OPT3": "Sloth",
+        "OPT4": "Tapir",
+        "_id": 377
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler88",
+        "OPT1": "Pomegranate",
+        "OPT2": "Artichoke",
+        "OPT3": "Mango",
+        "OPT4": "Red Grapes",
+        "_id": 378
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cape Verde",
+        "OPT1": "Praia",
+        "OPT2": "Oranjestad",
+        "OPT3": "Maputo",
+        "OPT4": "Manama",
+        "_id": 379
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_theturksandcaicosislands",
+        "OPT1": "The Turks and Caicoislands",
+        "OPT2": "Iraq",
+        "OPT3": "Macedonia",
+        "OPT4": "Liechtenstein",
+        "_id": 380
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler78",
+        "OPT1": "Cherry",
+        "OPT2": "Broccoli",
+        "OPT3": "Tomatillo",
+        "OPT4": "Kiwi Fruit",
+        "_id": 381
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Pitcairn islands",
+        "OPT1": "Adamstown",
+        "OPT2": "Amman",
+        "OPT3": "Manama",
+        "OPT4": "São Tomé",
+        "_id": 382
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Comoros",
+        "OPT1": "Moroni",
+        "OPT2": "Amsterdam",
+        "OPT3": "Nairobi",
+        "OPT4": "Windhoek",
+        "_id": 383
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mongolia",
+        "OPT1": "Ulan Bator",
+        "OPT2": "Castries",
+        "OPT3": "Niamey",
+        "OPT4": "Edinburgh of the Seven Seas",
+        "_id": 384
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sahrawi Arab Democratic Republic ",
+        "OPT1": "El Aaiún (declared)",
+        "OPT2": "Rabat",
+        "OPT3": "Bishkek",
+        "OPT4": "Cairo",
+        "_id": 385
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_belgium",
+        "OPT1": "Belgium",
+        "OPT2": "South Korea",
+        "OPT3": "Suriname",
+        "OPT4": "Kenya",
+        "_id": 386
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_eritrea",
+        "OPT1": "Eritrea",
+        "OPT2": "Nauru",
+        "OPT3": "Saint Kitts and Nevis",
+        "OPT4": "Albania",
+        "_id": 387
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals6",
+        "OPT1": "Alligator",
+        "OPT2": "Tapir",
+        "OPT3": "Raccoon",
+        "OPT4": "Lemur",
+        "_id": 388
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Taiwan",
+        "OPT1": "Taipei",
+        "OPT2": "Copenhagen",
+        "OPT3": "Tórshavn",
+        "OPT4": "Astana",
+        "_id": 389
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler24",
+        "OPT1": "Starfruit",
+        "OPT2": "Peas",
+        "OPT3": "Key Lime",
+        "OPT4": "Cantaloupe",
+        "_id": 390
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_zambia",
+        "OPT1": "Zambia",
+        "OPT2": "Latvia",
+        "OPT3": "Argentina",
+        "OPT4": "Liberia",
+        "_id": 391
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler38",
+        "OPT1": "Daikon",
+        "OPT2": "Kiwi Fruit",
+        "OPT3": "Rutabaga",
+        "OPT4": "Peas",
+        "_id": 392
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt014",
+        "OPT1": "Chair",
+        "OPT2": "Furnace",
+        "OPT3": "Linens",
+        "OPT4": "TV",
+        "_id": 393
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sao_tome_and_principe",
+        "OPT1": "Sao Tome and Principe",
+        "OPT2": "Transnistria",
+        "OPT3": "Malta",
+        "OPT4": "San Marino",
+        "_id": 394
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Akrotiri and Dhekelia",
+        "OPT1": "Episkopi Cantonment",
+        "OPT2": "Brasília",
+        "OPT3": "Baghdad",
+        "OPT4": "Tiraspol",
+        "_id": 395
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_albania",
+        "OPT1": "Albania",
+        "OPT2": "Morocco",
+        "OPT3": "Niger",
+        "OPT4": "Colombia",
+        "_id": 396
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler51",
+        "OPT1": "Green Bell Pepper",
+        "OPT2": "Pear",
+        "OPT3": "Olive",
+        "OPT4": "Eggplant",
+        "_id": 397
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals172",
+        "OPT1": "Sparrow",
+        "OPT2": "Caribou",
+        "OPT3": "Butterfly",
+        "OPT4": "Grasshopper",
+        "_id": 398
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Madagascar",
+        "OPT1": "Antananarivo",
+        "OPT2": "Windhoek",
+        "OPT3": "Damascus",
+        "OPT4": "Helsinki",
+        "_id": 399
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_faroeislands",
+        "OPT1": "Faroe islands",
+        "OPT2": "Peru",
+        "OPT3": "Uzbekistan",
+        "OPT4": "Croatia",
+        "_id": 400
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt001",
+        "OPT1": "Armoire",
+        "OPT2": "Vacuum",
+        "OPT3": "Ironing Board",
+        "OPT4": "Shelf",
+        "_id": 401
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_paraguay",
+        "OPT1": "Paraguay",
+        "OPT2": "Djibouti",
+        "OPT3": "Gabon",
+        "OPT4": "The People's Republic of China",
+        "_id": 402
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_solomon_islands",
+        "OPT1": "The Solomon islands",
+        "OPT2": "Monaco",
+        "OPT3": "Libya",
+        "OPT4": "Myanmar",
+        "_id": 403
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_dominican_republic",
+        "OPT1": "The Dominican Republic",
+        "OPT2": "Bahrain",
+        "OPT3": "Ivory Coast",
+        "OPT4": "The United Arab Emirates",
+        "_id": 404
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_brunei",
+        "OPT1": "Brunei",
+        "OPT2": "Liberia",
+        "OPT3": "Bosnia and Herzegovina",
+        "OPT4": "Angola",
+        "_id": 405
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_senegal",
+        "OPT1": "Senegal",
+        "OPT2": "Poland",
+        "OPT3": "The Republic of China",
+        "OPT4": "Sudan",
+        "_id": 406
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tonga",
+        "OPT1": "Tonga",
+        "OPT2": "San Marino",
+        "OPT3": "Barbados",
+        "OPT4": "The Gambia",
+        "_id": 407
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler9",
+        "OPT1": "Cranberry",
+        "OPT2": "Papaya",
+        "OPT3": "Romaine Lettuce",
+        "OPT4": "Turnip",
+        "_id": 408
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bhutan",
+        "OPT1": "Thimphu",
+        "OPT2": "St. Pierre",
+        "OPT3": "St. Peter Port",
+        "OPT4": "Sri Jayawardenepura Kotte (official)",
+        "_id": 409
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Vietnam",
+        "OPT1": "Hanoi",
+        "OPT2": "Addis Ababa",
+        "OPT3": "Budapest",
+        "OPT4": "Bangui",
+        "_id": 410
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt103",
+        "OPT1": "Lamp",
+        "OPT2": "File Cabinet",
+        "OPT3": "Furnace",
+        "OPT4": "Pitcher",
+        "_id": 411
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_jersey",
+        "OPT1": "Jersey",
+        "OPT2": "Djibouti",
+        "OPT3": "Switzerland",
+        "OPT4": "Saint Lucia",
+        "_id": 412
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Norfolk island",
+        "OPT1": "Kingston",
+        "OPT2": "Port-au-Prince",
+        "OPT3": "Nicosia",
+        "OPT4": "Yerevan",
+        "_id": 413
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mongolia",
+        "OPT1": "Mongolia",
+        "OPT2": "Chad",
+        "OPT3": "Mauritania",
+        "OPT4": "Spain",
+        "_id": 414
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Samoa",
+        "OPT1": "Apia",
+        "OPT2": "Beijing",
+        "OPT3": "Georgetown",
+        "OPT4": "Pretoria (executive)",
+        "_id": 415
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler75",
+        "OPT1": "Kumquat",
+        "OPT2": "Collard Greens",
+        "OPT3": "Cauliflower",
+        "OPT4": "Sweet Potato",
+        "_id": 416
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Romania",
+        "OPT1": "Bucharest",
+        "OPT2": "San José",
+        "OPT3": "Monaco",
+        "OPT4": "Hanga Roa",
+        "_id": 417
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Haiti",
+        "OPT1": "Port-au-Prince",
+        "OPT2": "Baku",
+        "OPT3": "Zagreb",
+        "OPT4": "Apia",
+        "_id": 418
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_philippines",
+        "OPT1": "The Philippines",
+        "OPT2": "Romania",
+        "OPT3": "Bulgaria",
+        "OPT4": "Togo",
+        "_id": 419
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tanzania",
+        "OPT1": "Dodoma (official), Dar es Salaam (former capital)",
+        "OPT2": "Havana",
+        "OPT3": "Brazzaville",
+        "OPT4": "Cayenne",
+        "_id": 420
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "San Marino",
+        "OPT1": "San Marino",
+        "OPT2": "Lusaka",
+        "OPT3": "Sana'a",
+        "OPT4": "Santiago (official)",
+        "_id": 421
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Oman",
+        "OPT1": "Muscat",
+        "OPT2": "Bogotá",
+        "OPT3": "Luxembourg",
+        "OPT4": "Kingston",
+        "_id": 422
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_norway",
+        "OPT1": "Norway",
+        "OPT2": "Spain",
+        "OPT3": "Venezuela",
+        "OPT4": "Suriname",
+        "_id": 423
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_nagorno_karabakh",
+        "OPT1": "Nagorno-Karabakh",
+        "OPT2": "Uzbekistan",
+        "OPT3": "New Zealand",
+        "OPT4": "The Federated States of Micronesia",
+        "_id": 424
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_syria",
+        "OPT1": "Syria",
+        "OPT2": "The Republic of the Congo",
+        "OPT3": "Kosovo",
+        "OPT4": "Namibia",
+        "_id": 425
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals105",
+        "OPT1": "Ladybug",
+        "OPT2": "Centipede",
+        "OPT3": "Whale",
+        "OPT4": "Pigeon",
+        "_id": 426
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt099",
+        "OPT1": "Fan",
+        "OPT2": "Light Switch",
+        "OPT3": "Musical Instruments",
+        "OPT4": "Chair",
+        "_id": 427
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt032",
+        "OPT1": "Duvet",
+        "OPT2": "Sponge",
+        "OPT3": "Credenza",
+        "OPT4": "Coat Hanger",
+        "_id": 428
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_antigua_and_barbuda",
+        "OPT1": "Antigua and Barbuda",
+        "OPT2": "Guinea-Bissau",
+        "OPT3": "Seychelles",
+        "OPT4": "Djibouti",
+        "_id": 429
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kosovo",
+        "OPT1": "Kosovo",
+        "OPT2": "Iraq",
+        "OPT3": "Colombia",
+        "OPT4": "Equatorial Guinea",
+        "_id": 430
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals103",
+        "OPT1": "Koala",
+        "OPT2": "Bobcat",
+        "OPT3": "Porcupine",
+        "OPT4": "Chicken",
+        "_id": 431
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "France",
+        "OPT1": "Paris",
+        "OPT2": "Hargeisa",
+        "OPT3": "Monrovia",
+        "OPT4": "San Marino",
+        "_id": 432
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_palestine",
+        "OPT1": "Palestine",
+        "OPT2": "Paraguay",
+        "OPT3": "Afghanistan",
+        "OPT4": "Saint Kitts and Nevis",
+        "_id": 433
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_namibia",
+        "OPT1": "Namibia",
+        "OPT2": "Papua New Guinea",
+        "OPT3": "Madagascar",
+        "OPT4": "ireland",
+        "_id": 434
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt009",
+        "OPT1": "Broom",
+        "OPT2": "TV",
+        "OPT3": "Bucket",
+        "OPT4": "Note Paper",
+        "_id": 435
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bhutan",
+        "OPT1": "Bhutan",
+        "OPT2": "Sri Lanka",
+        "OPT3": "East Timor",
+        "OPT4": "Palestine",
+        "_id": 436
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sudan",
+        "OPT1": "Khartoum",
+        "OPT2": "Vaduz",
+        "OPT3": "Dushanbe",
+        "OPT4": "Lima",
+        "_id": 437
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Senegal",
+        "OPT1": "Dakar",
+        "OPT2": "Guatemala City",
+        "OPT3": "Oranjestad",
+        "OPT4": "Port Moresby",
+        "_id": 438
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals67",
+        "OPT1": "Earthworm",
+        "OPT2": "Boar ",
+        "OPT3": "Beaver",
+        "OPT4": "Cheetah",
+        "_id": 439
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Georgia",
+        "OPT1": "Tbilisi (official)",
+        "OPT2": "Pristina",
+        "OPT3": "Bucharest",
+        "OPT4": "San José",
+        "_id": 440
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals53",
+        "OPT1": "Coral",
+        "OPT2": "Goat",
+        "OPT3": "Caterpillar",
+        "OPT4": "Raven",
+        "_id": 441
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals137",
+        "OPT1": "Ox",
+        "OPT2": "Water Buffalo",
+        "OPT3": "Frog",
+        "OPT4": "Komodo Dragon",
+        "_id": 442
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals25",
+        "OPT1": "Beaver",
+        "OPT2": "Guinea Pig",
+        "OPT3": "Zebra",
+        "OPT4": "Mosquito",
+        "_id": 443
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Uruguay",
+        "OPT1": "Montevideo",
+        "OPT2": "Kingston",
+        "OPT3": "Melekeok (official)",
+        "OPT4": "Road Town",
+        "_id": 444
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_swaziland",
+        "OPT1": "Swaziland",
+        "OPT2": "Sweden",
+        "OPT3": "Portugal",
+        "OPT4": "Nauru",
+        "_id": 445
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals91",
+        "OPT1": "Hedgehog",
+        "OPT2": "Moth",
+        "OPT3": "Jellyfish",
+        "OPT4": "Jaguar",
+        "_id": 446
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler20",
+        "OPT1": "Kohlrabi",
+        "OPT2": "Watermelon",
+        "OPT3": "Clemintine",
+        "OPT4": "Cherry",
+        "_id": 447
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals106",
+        "OPT1": "Land Snail",
+        "OPT2": "Orangutan",
+        "OPT3": "Llama",
+        "OPT4": "Owl",
+        "_id": 448
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bolivia",
+        "OPT1": "Sucre (constitutional)",
+        "OPT2": "Mata-Utu",
+        "OPT3": "Abuja",
+        "OPT4": "Juba",
+        "_id": 449
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals117",
+        "OPT1": "Macaw",
+        "OPT2": "Pelican",
+        "OPT3": "Anteater",
+        "OPT4": "Arctic Wolf",
+        "_id": 450
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals11",
+        "OPT1": "Antelope",
+        "OPT2": "Worm",
+        "OPT3": "Shark",
+        "OPT4": "Blue Whale",
+        "_id": 451
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler80",
+        "OPT1": "Strawberry",
+        "OPT2": "Fig",
+        "OPT3": "Garlic",
+        "OPT4": "Green Onion",
+        "_id": 452
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals107",
+        "OPT1": "Leech",
+        "OPT2": "Lice",
+        "OPT3": "Koala",
+        "OPT4": "Pelican",
+        "_id": 453
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_puertorico",
+        "OPT1": "Puertorico",
+        "OPT2": "Tajikistan",
+        "OPT3": "South Sudan",
+        "OPT4": "Nigeria",
+        "_id": 454
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Somalia",
+        "OPT1": "Mogadishu",
+        "OPT2": "Funafuti",
+        "OPT3": "Caracas",
+        "OPT4": "Vienna",
+        "_id": 455
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler49",
+        "OPT1": "Granny Smith Apple",
+        "OPT2": "Mushroom",
+        "OPT3": "Sweet Potato",
+        "OPT4": "Broccoli",
+        "_id": 456
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt100",
+        "OPT1": "Hammer",
+        "OPT2": "Spoons",
+        "OPT3": "Bookcase",
+        "OPT4": "Scissors",
+        "_id": 457
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals60",
+        "OPT1": "Cuckoo",
+        "OPT2": "Land Snail",
+        "OPT3": "Falcon",
+        "OPT4": "Llama",
+        "_id": 458
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt034",
+        "OPT1": "File Cabinet",
+        "OPT2": "Houseplant",
+        "OPT3": "Toothpaste",
+        "OPT4": "Candles",
+        "_id": 459
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_guinea",
+        "OPT1": "Guinea",
+        "OPT2": "Thailand",
+        "OPT3": "Turkey",
+        "OPT4": "Sri Lanka",
+        "_id": 460
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_slovakia",
+        "OPT1": "Slovakia",
+        "OPT2": "The Vatican City",
+        "OPT3": "Mexico",
+        "OPT4": "South Korea",
+        "_id": 461
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Singapore",
+        "OPT1": "Singapore",
+        "OPT2": "Monaco",
+        "OPT3": "Charlotte Amalie",
+        "OPT4": "Sofia",
+        "_id": 462
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bahrain",
+        "OPT1": "Bahrain",
+        "OPT2": "Mongolia",
+        "OPT3": "Vanuatu",
+        "OPT4": "The Cook islands",
+        "_id": 463
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler70",
+        "OPT1": "Sweet Potato",
+        "OPT2": "Leek",
+        "OPT3": "Tomato",
+        "OPT4": "Apricot",
+        "_id": 464
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt020",
+        "OPT1": "Couch",
+        "OPT2": "Dryer",
+        "OPT3": "Flatware",
+        "OPT4": "Cup",
+        "_id": 465
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals12",
+        "OPT1": "Ape",
+        "OPT2": "Cow",
+        "OPT3": "Owl",
+        "OPT4": "Black Panther",
+        "_id": 466
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt044",
+        "OPT1": "Ironing Board",
+        "OPT2": "Tissues",
+        "OPT3": "Hammer",
+        "OPT4": "Blinds",
+        "_id": 467
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals36",
+        "OPT1": "Jellyfish",
+        "OPT2": "Kangaroo",
+        "OPT3": "Gazelle",
+        "OPT4": "Shark",
+        "_id": 468
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Helena",
+        "OPT1": "Jamestown",
+        "OPT2": "Abuja",
+        "OPT3": "Tunis",
+        "OPT4": "Bandar Seri Begawan",
+        "_id": 469
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler64",
+        "OPT1": "Leek",
+        "OPT2": "Kumquat",
+        "OPT3": "Chili Pepper",
+        "OPT4": "Pomelo",
+        "_id": 470
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt019",
+        "OPT1": "Computer",
+        "OPT2": "Towels",
+        "OPT3": "Fan",
+        "OPT4": "Mop",
+        "_id": 471
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_armenia",
+        "OPT1": "Armenia",
+        "OPT2": "Niger",
+        "OPT3": "Burkina Faso",
+        "OPT4": "Nigeria",
+        "_id": 472
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "United Kingdom",
+        "OPT1": "London",
+        "OPT2": "Hagåtña",
+        "OPT3": "Vilnius",
+        "OPT4": "Vatican City",
+        "_id": 473
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_botswana",
+        "OPT1": "Botswana",
+        "OPT2": "Nicaragua",
+        "OPT3": "The People's Republic of China",
+        "OPT4": "Nagorno-Karabakh",
+        "_id": 474
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_sintmaaten",
+        "OPT1": "Sintmaaten",
+        "OPT2": "Bulgaria",
+        "OPT3": "Turkmenistan",
+        "OPT4": "Samoa",
+        "_id": 475
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler81",
+        "OPT1": "Kale",
+        "OPT2": "Clemintine",
+        "OPT3": "Endive Lettuce",
+        "OPT4": "Pumpkin",
+        "_id": 476
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Croatia",
+        "OPT1": "Zagreb",
+        "OPT2": "Douglas",
+        "OPT3": "Harare",
+        "OPT4": "Tripoli",
+        "_id": 477
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "South Sudan",
+        "OPT1": "Juba",
+        "OPT2": "Stepanakert",
+        "OPT3": "Prague",
+        "OPT4": "Malabo",
+        "_id": 478
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler66",
+        "OPT1": "Artichoke",
+        "OPT2": "Mandarin Orange",
+        "OPT3": "Kale",
+        "OPT4": "Clemintine",
+        "_id": 479
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_israel",
+        "OPT1": "Israel",
+        "OPT2": "The United Arab Emirates",
+        "OPT3": "The Turkish Republic of Northern Cyprus",
+        "OPT4": "The Netherlands",
+        "_id": 480
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_saint_lucia",
+        "OPT1": "Saint Lucia",
+        "OPT2": "Argentina",
+        "OPT3": "Somalia",
+        "OPT4": "Oman",
+        "_id": 481
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Lebanon",
+        "OPT1": "Beirut",
+        "OPT2": "Palikir",
+        "OPT3": "Kinshasa",
+        "OPT4": "Moroni",
+        "_id": 482
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt018",
+        "OPT1": "Comforter",
+        "OPT2": "Piano",
+        "OPT3": "Washing Machine",
+        "OPT4": "Forks",
+        "_id": 483
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_republic_of_the_congo",
+        "OPT1": "The Republic of the Congo",
+        "OPT2": "Lesotho",
+        "OPT3": "Serbia",
+        "OPT4": "The Comoros",
+        "_id": 484
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_papua_new_guinea",
+        "OPT1": "Papua New Guinea",
+        "OPT2": "Andorra",
+        "OPT3": "Sweden",
+        "OPT4": "El Salvador",
+        "_id": 485
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt084",
+        "OPT1": "Table",
+        "OPT2": "Bin",
+        "OPT3": "Coat Hanger",
+        "OPT4": "Comforter",
+        "_id": 486
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals169",
+        "OPT1": "Sloth",
+        "OPT2": "Bald Eagle",
+        "OPT3": "Alligator",
+        "OPT4": "Macaw",
+        "_id": 487
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_switzerland",
+        "OPT1": "Switzerland",
+        "OPT2": "France",
+        "OPT3": "Tajikistan",
+        "OPT4": "Ecuador",
+        "_id": 488
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_flaklandislands",
+        "OPT1": "Flakland islands",
+        "OPT2": "Guyana",
+        "OPT3": "Nicaragua",
+        "OPT4": "Rwanda",
+        "_id": 489
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "El Salvador",
+        "OPT1": "San Salvador",
+        "OPT2": "Gaborone",
+        "OPT3": "Berlin",
+        "OPT4": "Islamabad",
+        "_id": 490
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt043",
+        "OPT1": "Iron",
+        "OPT2": "Sofa",
+        "OPT3": "Spoons",
+        "OPT4": "Houseplant",
+        "_id": 491
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Burkina Faso",
+        "OPT1": "Ouagadougou",
+        "OPT2": "Rome",
+        "OPT3": "Tbilisi (official)",
+        "OPT4": "Praia",
+        "_id": 492
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_niue",
+        "OPT1": "Niue",
+        "OPT2": "Sao Tome and Principe",
+        "OPT3": "Finland",
+        "OPT4": "Tonga",
+        "_id": 493
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals96",
+        "OPT1": "Hyena",
+        "OPT2": "Sea Lion",
+        "OPT3": "Reptile",
+        "OPT4": "Anteater",
+        "_id": 494
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt025",
+        "OPT1": "Dish Towel",
+        "OPT2": "Light Bulbs",
+        "OPT3": "Iron",
+        "OPT4": "Musical Instruments",
+        "_id": 495
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Angola",
+        "OPT1": "Luanda",
+        "OPT2": "Warsaw",
+        "OPT3": "Jerusalem (declared, de facto)",
+        "OPT4": "Monaco",
+        "_id": 496
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt008",
+        "OPT1": "Books",
+        "OPT2": "Suitcase",
+        "OPT3": "Comforter",
+        "OPT4": "Comb",
+        "_id": 497
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_haiti",
+        "OPT1": "Haiti",
+        "OPT2": "Belize",
+        "OPT3": "Estonia",
+        "OPT4": "Malawi",
+        "_id": 498
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals54",
+        "OPT1": "Cougar",
+        "OPT2": "Duck",
+        "OPT3": "Bat",
+        "OPT4": "Raccoon",
+        "_id": 499
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt109",
+        "OPT1": "Vacuum",
+        "OPT2": "Shelf",
+        "OPT3": "Fuse Box",
+        "OPT4": "Vase",
+        "_id": 500
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_laos",
+        "OPT1": "Laos",
+        "OPT2": "Burkina Faso",
+        "OPT3": "South Sudan",
+        "OPT4": "Estonia",
+        "_id": 501
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_abkhazia",
+        "OPT1": "Abkhazia",
+        "OPT2": "Brazil",
+        "OPT3": "Sao Tome and Principe",
+        "OPT4": "Laos",
+        "_id": 502
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler74",
+        "OPT1": "Mushroom",
+        "OPT2": "Turnip",
+        "OPT3": "Shallot",
+        "OPT4": "Banana",
+        "_id": 503
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_myanmar",
+        "OPT1": "Myanmar",
+        "OPT2": "Guinea",
+        "OPT3": "Oman",
+        "OPT4": "Samoa",
+        "_id": 504
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt078",
+        "OPT1": "Socks",
+        "OPT2": "Ironing Board",
+        "OPT3": "Jewelry",
+        "OPT4": "File Cabinet",
+        "_id": 505
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals157",
+        "OPT1": "Reindeer",
+        "OPT2": "Cockroach",
+        "OPT3": "Rhinoceros",
+        "OPT4": "Crow",
+        "_id": 506
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals75",
+        "OPT1": "Fox",
+        "OPT2": "Scorpion",
+        "OPT3": "Worm",
+        "OPT4": "Dolphin",
+        "_id": 507
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Zimbabwe",
+        "OPT1": "Harare",
+        "OPT2": "Kingstown",
+        "OPT3": "Bujumbura",
+        "OPT4": "Maputo",
+        "_id": 508
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_malta",
+        "OPT1": "Malta",
+        "OPT2": "Senegal",
+        "OPT3": "Rwanda",
+        "OPT4": "Fiji",
+        "_id": 509
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Vanuatu",
+        "OPT1": "Port Vila",
+        "OPT2": "Sofia",
+        "OPT3": "George Town",
+        "OPT4": "Madrid",
+        "_id": 510
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals62",
+        "OPT1": "Dog",
+        "OPT2": "Bear",
+        "OPT3": "Hornet",
+        "OPT4": "Stork",
+        "_id": 511
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals57",
+        "OPT1": "Crab",
+        "OPT2": "Lemur",
+        "OPT3": "Hedgehog",
+        "OPT4": "Yak",
+        "_id": 512
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals133",
+        "OPT1": "Orca",
+        "OPT2": "Giant Panda",
+        "OPT3": "Wasp",
+        "OPT4": "Cougar",
+        "_id": 513
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Christmas island",
+        "OPT1": "Flying Fish Cove",
+        "OPT2": "Tehran",
+        "OPT3": "Mata-Utu",
+        "OPT4": "Athens",
+        "_id": 514
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals148",
+        "OPT1": "Porcupine",
+        "OPT2": "Sloth",
+        "OPT3": "Swan",
+        "OPT4": "Caribou",
+        "_id": 515
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Spain",
+        "OPT1": "Madrid",
+        "OPT2": "Avarua",
+        "OPT3": "Canberra",
+        "OPT4": "Amman",
+        "_id": 516
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals97",
+        "OPT1": "Iguana",
+        "OPT2": "Platypus ",
+        "OPT3": "Egret",
+        "OPT4": "Bobcat",
+        "_id": 517
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_transnistria",
+        "OPT1": "Transnistria",
+        "OPT2": "East Timor",
+        "OPT3": "The United Kingdom",
+        "OPT4": "Rwanda",
+        "_id": 518
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt037",
+        "OPT1": "Flatware",
+        "OPT2": "Comb",
+        "OPT3": "Socks",
+        "OPT4": "Fuse Box",
+        "_id": 519
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_indonesia",
+        "OPT1": "indonesia",
+        "OPT2": "Cyprus",
+        "OPT3": "Azerbaijan",
+        "OPT4": "Lithuania",
+        "_id": 520
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Fiji",
+        "OPT1": "Suva",
+        "OPT2": "Seoul",
+        "OPT3": "Port-au-Prince",
+        "OPT4": "Paramaribo",
+        "_id": 521
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler63",
+        "OPT1": "Celery",
+        "OPT2": "Sweet Potato",
+        "OPT3": "Radish",
+        "OPT4": "Pear",
+        "_id": 522
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals64",
+        "OPT1": "Dove",
+        "OPT2": "Bedbug",
+        "OPT3": "Octopus",
+        "OPT4": "Hedgehog",
+        "_id": 523
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_andorra",
+        "OPT1": "Andorra",
+        "OPT2": "Azerbaijan",
+        "OPT3": "Vietnam",
+        "OPT4": "Guatemala",
+        "_id": 524
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Curaçao",
+        "OPT1": "Willemstad",
+        "OPT2": "Buenos Aires",
+        "OPT3": "Addis Ababa",
+        "OPT4": "Georgetown",
+        "_id": 525
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Malaysia",
+        "OPT1": "Kuala Lumpur (official, legislative and royal)",
+        "OPT2": "Mogadishu",
+        "OPT3": "Belgrade",
+        "OPT4": "Kuwait City",
+        "_id": 526
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals195",
+        "OPT1": "Worm",
+        "OPT2": "Grasshopper",
+        "OPT3": "Hyena",
+        "OPT4": "Rooster",
+        "_id": 527
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Burma",
+        "OPT1": "Naypyidaw",
+        "OPT2": "Maseru",
+        "OPT3": "Nassau",
+        "OPT4": "Stepanakert",
+        "_id": 528
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guinea-Bissau",
+        "OPT1": "Bissau",
+        "OPT2": "Suva",
+        "OPT3": "Stanley",
+        "OPT4": "Bujumbura",
+        "_id": 529
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Barthélemy",
+        "OPT1": "Gustavia",
+        "OPT2": "Sucre (constitutional)",
+        "OPT3": "Libreville",
+        "OPT4": "Willemstad",
+        "_id": 530
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kazakhstan",
+        "OPT1": "Astana",
+        "OPT2": "Quito",
+        "OPT3": "Mbabane (administrative)",
+        "OPT4": "Canberra",
+        "_id": 531
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals30",
+        "OPT1": "Black Panther",
+        "OPT2": "Rabbit",
+        "OPT3": "Lemur",
+        "OPT4": "Weasel",
+        "_id": 532
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_afghanistan",
+        "OPT1": "Afghanistan",
+        "OPT2": "Kuwait",
+        "OPT3": "Laos",
+        "OPT4": "Chad",
+        "_id": 533
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_central_african_republic",
+        "OPT1": "The Central African Republic",
+        "OPT2": "Abkhazia",
+        "OPT3": "The Cook islands",
+        "OPT4": "Andorra",
+        "_id": 534
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals90",
+        "OPT1": "Hawk",
+        "OPT2": "Arctic Fox",
+        "OPT3": "Python",
+        "OPT4": "Capybara",
+        "_id": 535
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler68",
+        "OPT1": "Cauliflower",
+        "OPT2": "Grapefruit",
+        "OPT3": "Broccoli",
+        "OPT4": "Orange",
+        "_id": 536
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_south_ossetia",
+        "OPT1": "South Ossetia",
+        "OPT2": "Barbados",
+        "OPT3": "Cape Verde",
+        "OPT4": "Bhutan",
+        "_id": 537
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Uganda",
+        "OPT1": "Kampala",
+        "OPT2": "Georgetown",
+        "OPT3": "Tokyo",
+        "OPT4": "Majuro",
+        "_id": 538
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals143",
+        "OPT1": "Pigeon",
+        "OPT2": "Frog",
+        "OPT3": "Firefly",
+        "OPT4": "Gecko",
+        "_id": 539
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Papua New Guinea",
+        "OPT1": "Port Moresby",
+        "OPT2": "Moscow",
+        "OPT3": "New Delhi",
+        "OPT4": "Port-au-Prince",
+        "_id": 540
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_thailand",
+        "OPT1": "Thailand",
+        "OPT2": "Lebanon",
+        "OPT3": "Zimbabwe",
+        "OPT4": "Argentina",
+        "_id": 541
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_germany",
+        "OPT1": "Germany",
+        "OPT2": "Guyana",
+        "OPT3": "Romania",
+        "OPT4": "Kyrgyzstan",
+        "_id": 542
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals108",
+        "OPT1": "Lemming",
+        "OPT2": "Chimpanzee",
+        "OPT3": "Coyote",
+        "OPT4": "Platypus ",
+        "_id": 543
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "British Virgin islands",
+        "OPT1": "Road Town",
+        "OPT2": "Wellington",
+        "OPT3": "Phnom Penh",
+        "OPT4": "Marigot",
+        "_id": 544
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals51",
+        "OPT1": "Cobra",
+        "OPT2": "Black Panther",
+        "OPT3": "Bedbug",
+        "OPT4": "Octopus",
+        "_id": 545
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "United Arab Emirates",
+        "OPT1": "Abu Dhabi",
+        "OPT2": "Apia",
+        "OPT3": "Pyongyang",
+        "OPT4": "New Delhi",
+        "_id": 546
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt039",
+        "OPT1": "Forks",
+        "OPT2": "Shoes",
+        "OPT3": "Table",
+        "OPT4": "Bucket",
+        "_id": 547
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Democratic Republic of the Congo",
+        "OPT1": "Kinshasa",
+        "OPT2": "Vientiane",
+        "OPT3": "Montevideo",
+        "OPT4": "Singapore",
+        "_id": 548
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals121",
+        "OPT1": "Mole",
+        "OPT2": "Beetle",
+        "OPT3": "Ape",
+        "OPT4": "Lice",
+        "_id": 549
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Finland",
+        "OPT1": "Helsinki",
+        "OPT2": "Tskhinvali",
+        "OPT3": "Beijing",
+        "OPT4": "Malé",
+        "_id": 550
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Turks and Caicos islands",
+        "OPT1": "Cockburn Town",
+        "OPT2": "Praia",
+        "OPT3": "Amsterdam",
+        "OPT4": "Andorra la Vella",
+        "_id": 551
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler35",
+        "OPT1": "Carrot",
+        "OPT2": "Red Grapes",
+        "OPT3": "Lemon",
+        "OPT4": "Jujube",
+        "_id": 552
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt083",
+        "OPT1": "Sweeper",
+        "OPT2": "Paper",
+        "OPT3": "Smoke Detector",
+        "OPT4": "Plate",
+        "_id": 553
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_chad",
+        "OPT1": "Chad",
+        "OPT2": "Belgium",
+        "OPT3": "Panama",
+        "OPT4": "Australia",
+        "_id": 554
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals176",
+        "OPT1": "Stork",
+        "OPT2": "Blackbird",
+        "OPT3": "Penguin",
+        "OPT4": "Falcon",
+        "_id": 555
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_montserrat",
+        "OPT1": "Montserrat",
+        "OPT2": "The Gambia",
+        "OPT3": "Uganda",
+        "OPT4": "Finland",
+        "_id": 556
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler11",
+        "OPT1": "Cantaloupe",
+        "OPT2": "Cauliflower",
+        "OPT3": "Orange",
+        "OPT4": "Iceberg Lettuce",
+        "_id": 557
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler3",
+        "OPT1": "Eggplant",
+        "OPT2": "Coconut",
+        "OPT3": "Honeydew Melon",
+        "OPT4": "Olive",
+        "_id": 558
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "India",
+        "OPT1": "New Delhi",
+        "OPT2": "Bern",
+        "OPT3": "Nouakchott",
+        "OPT4": "Saipan",
+        "_id": 559
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt060",
+        "OPT1": "Phone",
+        "OPT2": "Blankets",
+        "OPT3": "Pillow",
+        "OPT4": "Ironing Board",
+        "_id": 560
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler72",
+        "OPT1": "Passion Fruit",
+        "OPT2": "Nectarine",
+        "OPT3": "Coconut",
+        "OPT4": "Asparagus",
+        "_id": 561
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "North Korea",
+        "OPT1": "Pyongyang",
+        "OPT2": "Kuala Lumpur (official, legislative and royal)",
+        "OPT3": "Santo Domingo",
+        "OPT4": "Papeete",
+        "_id": 562
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals23",
+        "OPT1": "Bat",
+        "OPT2": "Turkey",
+        "OPT3": "Crow",
+        "OPT4": "Sheep",
+        "_id": 563
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler55",
+        "OPT1": "Cherimoya",
+        "OPT2": "Zucchini",
+        "OPT3": "Cabbage",
+        "OPT4": "Celery",
+        "_id": 564
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt098",
+        "OPT1": "Calendar",
+        "OPT2": "Alarm Clock",
+        "OPT3": "Microwave",
+        "OPT4": "Tissues",
+        "_id": 565
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_slovenia",
+        "OPT1": "Slovenia",
+        "OPT2": "Ukraine",
+        "OPT3": "Malaysia",
+        "OPT4": "India",
+        "_id": 566
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_japan",
+        "OPT1": "Japan",
+        "OPT2": "Eritrea",
+        "OPT3": "Niue",
+        "OPT4": "Macedonia",
+        "_id": 567
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt096",
+        "OPT1": "Alarm Clock",
+        "OPT2": "Note Paper",
+        "OPT3": "Sweeper",
+        "OPT4": "Saucer",
+        "_id": 568
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_guinea_bissau",
+        "OPT1": "Guinea-Bissau",
+        "OPT2": "Saint Kitts and Nevis",
+        "OPT3": "North Korea",
+        "OPT4": "The Philippines",
+        "_id": 569
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_panama",
+        "OPT1": "Panama",
+        "OPT2": "Swaziland",
+        "OPT3": "Belize",
+        "OPT4": "Denmark",
+        "_id": 570
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_georgia",
+        "OPT1": "Georgia",
+        "OPT2": "Ethiopia",
+        "OPT3": "Saint Lucia",
+        "OPT4": "Bosnia and Herzegovina",
+        "_id": 571
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ireland",
+        "OPT1": "ireland",
+        "OPT2": "Ecuador",
+        "OPT3": "Lebanon",
+        "OPT4": "Canada",
+        "_id": 572
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cook islands",
+        "OPT1": "Avarua",
+        "OPT2": "Tallinn",
+        "OPT3": "Riga",
+        "OPT4": "Amsterdam",
+        "_id": 573
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_south_korea",
+        "OPT1": "South Korea",
+        "OPT2": "Trinidad and Tobago",
+        "OPT3": "Swaziland",
+        "OPT4": "South Ossetia",
+        "_id": 574
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals185",
+        "OPT1": "Turkey",
+        "OPT2": "Reindeer",
+        "OPT3": "Flamingo",
+        "OPT4": "Meerkat",
+        "_id": 575
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_malawi",
+        "OPT1": "Malawi",
+        "OPT2": "Vanuatu",
+        "OPT3": "Liberia",
+        "OPT4": "Monaco",
+        "_id": 576
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sierra Leone",
+        "OPT1": "Freetown",
+        "OPT2": "Hanga Roa",
+        "OPT3": "Vientiane",
+        "OPT4": "Bishkek",
+        "_id": 577
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals22",
+        "OPT1": "Bass",
+        "OPT2": "Hamster",
+        "OPT3": "Reindeer",
+        "OPT4": "Otter",
+        "_id": 578
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Chile",
+        "OPT1": "Santiago (official)",
+        "OPT2": "Nuuk",
+        "OPT3": "Tegucigalpa",
+        "OPT4": "Phnom Penh",
+        "_id": 579
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals122",
+        "OPT1": "Monitor Lizard",
+        "OPT2": "Hedgehog",
+        "OPT3": "Dolphin",
+        "OPT4": "Tuna",
+        "_id": 580
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler69",
+        "OPT1": "Coconut",
+        "OPT2": "Corn",
+        "OPT3": "Dragonfruit",
+        "OPT4": "Leek",
+        "_id": 581
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals58",
+        "OPT1": "Crocodile",
+        "OPT2": "Bass",
+        "OPT3": "Leopard",
+        "OPT4": "Haddock",
+        "_id": 582
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_france",
+        "OPT1": "France",
+        "OPT2": "Antigua and Barbuda",
+        "OPT3": "Saudi Arabia",
+        "OPT4": "Uzbekistan",
+        "_id": 583
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Mexico",
+        "OPT1": "Mexico City",
+        "OPT2": "Reykjavík",
+        "OPT3": "Lilongwe",
+        "OPT4": "Stanley",
+        "_id": 584
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Eritrea",
+        "OPT1": "Asmara",
+        "OPT2": "Cayenne",
+        "OPT3": "St. Pierre",
+        "OPT4": "Pago Pago",
+        "_id": 585
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt110",
+        "OPT1": "Bin",
+        "OPT2": "Shirt",
+        "OPT3": "Computer",
+        "OPT4": "Pillow",
+        "_id": 586
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_rwanda",
+        "OPT1": "Rwanda",
+        "OPT2": "Seychelles",
+        "OPT3": "Singapore",
+        "OPT4": "Iraq",
+        "_id": 587
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saudi Arabia",
+        "OPT1": "Riyadh",
+        "OPT2": "Islamabad",
+        "OPT3": "Windhoek",
+        "OPT4": "Paris",
+        "_id": 588
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Gambia",
+        "OPT1": "Banjul",
+        "OPT2": "Riga",
+        "OPT3": "Vaduz",
+        "OPT4": "Astana",
+        "_id": 589
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Costa Rica",
+        "OPT1": "San José",
+        "OPT2": "Sana'a",
+        "OPT3": "Brussels",
+        "OPT4": "Beijing",
+        "_id": 590
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guinea",
+        "OPT1": "Conakry",
+        "OPT2": "Tashkent",
+        "OPT3": "Gustavia",
+        "OPT4": "Jerusalem (declared)",
+        "_id": 591
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt062",
+        "OPT1": "Pillow",
+        "OPT2": "Flower",
+        "OPT3": "Doormat",
+        "OPT4": "Toys",
+        "_id": 592
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_croatia",
+        "OPT1": "Croatia",
+        "OPT2": "Israel",
+        "OPT3": "The Czech Republic",
+        "OPT4": "Lebanon",
+        "_id": 593
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_uganda",
+        "OPT1": "Uganda",
+        "OPT2": "Montenegro",
+        "OPT3": "Austria",
+        "OPT4": "Chile",
+        "_id": 594
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt065",
+        "OPT1": "Plate",
+        "OPT2": "Scissors",
+        "OPT3": "Vase",
+        "OPT4": "Hammer",
+        "_id": 595
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt055",
+        "OPT1": "Pans",
+        "OPT2": "Doormat",
+        "OPT3": "Toys",
+        "OPT4": "Flatware",
+        "_id": 596
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals182",
+        "OPT1": "Tiger",
+        "OPT2": "Capybara",
+        "OPT3": "Chipmunk",
+        "OPT4": "Sole",
+        "_id": 597
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt067",
+        "OPT1": "Radio",
+        "OPT2": "Door Handle",
+        "OPT3": "Heater",
+        "OPT4": "Magnets",
+        "_id": 598
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler41",
+        "OPT1": "Spinach",
+        "OPT2": "Orange",
+        "OPT3": "Pear",
+        "OPT4": "Strawberry",
+        "_id": 599
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_colombia",
+        "OPT1": "Colombia",
+        "OPT2": "Kiribati",
+        "OPT3": "Spain",
+        "OPT4": "Antigua and Barbuda",
+        "_id": 600
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_azerbaijan",
+        "OPT1": "Azerbaijan",
+        "OPT2": "Croatia",
+        "OPT3": "Jamaica",
+        "OPT4": "Afghanistan",
+        "_id": 601
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Japan",
+        "OPT1": "Tokyo",
+        "OPT2": "Mbabane (administrative)",
+        "OPT3": "Sarajevo",
+        "OPT4": "Kingston",
+        "_id": 602
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler46",
+        "OPT1": "Mandarin Orange",
+        "OPT2": "Persimmon",
+        "OPT3": "Jujube",
+        "OPT4": "Carrot",
+        "_id": 603
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Northern Mariana islands",
+        "OPT1": "Saipan",
+        "OPT2": "Kampala",
+        "OPT3": "San Juan",
+        "OPT4": "Porto-Novo (official)",
+        "_id": 604
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals35",
+        "OPT1": "Bonobo",
+        "OPT2": "Firefly",
+        "OPT3": "Kangaroo",
+        "OPT4": "Duck",
+        "_id": 605
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler5",
+        "OPT1": "Grapefruit",
+        "OPT2": "Starfruit",
+        "OPT3": "Passion Fruit",
+        "OPT4": "Lime",
+        "_id": 606
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Central African Republic",
+        "OPT1": "Bangui",
+        "OPT2": "Helsinki",
+        "OPT3": "Gibraltar",
+        "OPT4": "St. Peter Port",
+        "_id": 607
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt002",
+        "OPT1": "Bedding",
+        "OPT2": "Sweeper",
+        "OPT3": "Timer",
+        "OPT4": "Vacuum",
+        "_id": 608
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "New Zealand",
+        "OPT1": "Wellington",
+        "OPT2": "Kuwait City",
+        "OPT3": "Oslo",
+        "OPT4": "Managua",
+        "_id": 609
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals93",
+        "OPT1": "Hornet",
+        "OPT2": "Ant",
+        "OPT3": "Lemming",
+        "OPT4": "Egret",
+        "_id": 610
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_scotland",
+        "OPT1": "Scotland",
+        "OPT2": "The Cook islands",
+        "OPT3": "Colombia",
+        "OPT4": "Algeria",
+        "_id": 611
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt108",
+        "OPT1": "Tablecloth",
+        "OPT2": "Phone",
+        "OPT3": "Cup",
+        "OPT4": "Bin",
+        "_id": 612
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler90",
+        "OPT1": "Okra",
+        "OPT2": "Tangerine",
+        "OPT3": "Beet",
+        "OPT4": "Grapefruit",
+        "_id": 613
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals27",
+        "OPT1": "Bee",
+        "OPT2": "Mouse",
+        "OPT3": "Gecko",
+        "OPT4": "Bedbug",
+        "_id": 614
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt070",
+        "OPT1": "Saw",
+        "OPT2": "Speakers",
+        "OPT3": "Magnets",
+        "OPT4": "Door Handle",
+        "_id": 615
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_moldova",
+        "OPT1": "Moldova",
+        "OPT2": "Myanmar",
+        "OPT3": "Iran",
+        "OPT4": "Algeria",
+        "_id": 616
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_macedonia",
+        "OPT1": "Macedonia",
+        "OPT2": "The Republic of China",
+        "OPT3": "Palestine",
+        "OPT4": "Cyprus",
+        "_id": 617
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals152",
+        "OPT1": "Quail",
+        "OPT2": "Elephant",
+        "OPT3": "Leech",
+        "OPT4": "Wolf",
+        "_id": 618
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_honduras",
+        "OPT1": "Honduras",
+        "OPT2": "Slovakia",
+        "OPT3": "Luxembourg",
+        "OPT4": "Transnistria",
+        "_id": 619
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_vatican_city",
+        "OPT1": "The Vatican City",
+        "OPT2": "Malawi",
+        "OPT3": "Japan",
+        "OPT4": "Slovakia",
+        "_id": 620
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler34",
+        "OPT1": "Broccoli",
+        "OPT2": "Honeydew Melon",
+        "OPT3": "Prickly Pear",
+        "OPT4": "Acorn Squash",
+        "_id": 621
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Dominica",
+        "OPT1": "Roseau",
+        "OPT2": "Prague",
+        "OPT3": "Valletta",
+        "OPT4": "Kingstown",
+        "_id": 622
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler45",
+        "OPT1": "Corn",
+        "OPT2": "Green Onion",
+        "OPT3": "Leek",
+        "OPT4": "Honeydew Melon",
+        "_id": 623
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_newcaledonia",
+        "OPT1": "New Caledonia",
+        "OPT2": "Cameroon",
+        "OPT3": "Bulgaria",
+        "OPT4": "Antigua and Barbuda",
+        "_id": 624
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals144",
+        "OPT1": "Piranha",
+        "OPT2": "Swan",
+        "OPT3": "Leopard",
+        "OPT4": "Frog",
+        "_id": 625
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Egypt",
+        "OPT1": "Cairo",
+        "OPT2": "Philipsburg",
+        "OPT3": "Kigali",
+        "OPT4": "Funafuti",
+        "_id": 626
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Belgium",
+        "OPT1": "Brussels",
+        "OPT2": "Beirut",
+        "OPT3": "Papeete",
+        "OPT4": "St. George's",
+        "_id": 627
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Estonia",
+        "OPT1": "Tallinn",
+        "OPT2": "Melekeok (official)",
+        "OPT3": "San Salvador",
+        "OPT4": "Bucharest",
+        "_id": 628
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals184",
+        "OPT1": "Tuna",
+        "OPT2": "Raven",
+        "OPT3": "Grasshopper",
+        "OPT4": "Caterpillar",
+        "_id": 629
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt040",
+        "OPT1": "Furnace",
+        "OPT2": "Hammer",
+        "OPT3": "Chairs",
+        "OPT4": "Clock",
+        "_id": 630
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Nigeria",
+        "OPT1": "Abuja",
+        "OPT2": "Port Louis",
+        "OPT3": "Belmopan",
+        "OPT4": "Bridgetown",
+        "_id": 631
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kazakhstan",
+        "OPT1": "Kazakhstan",
+        "OPT2": "India",
+        "OPT3": "Greece",
+        "OPT4": "Bulgaria",
+        "_id": 632
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt050",
+        "OPT1": "Microwave",
+        "OPT2": "Toothbrush",
+        "OPT3": "Drill",
+        "OPT4": "Door Stop",
+        "_id": 633
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_equatorial_guinea",
+        "OPT1": "Equatorial Guinea",
+        "OPT2": "Nigeria",
+        "OPT3": "Slovenia",
+        "OPT4": "The Bahamas",
+        "_id": 634
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_dominica",
+        "OPT1": "Dominica",
+        "OPT2": "Saudi Arabia",
+        "OPT3": "The Comoros",
+        "OPT4": "Germany",
+        "_id": 635
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_frenchpolynesia",
+        "OPT1": "French Polynesia",
+        "OPT2": "Armenia",
+        "OPT3": "Uruguay",
+        "OPT4": "South Africa",
+        "_id": 636
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Isle of Man",
+        "OPT1": "Douglas",
+        "OPT2": "Tarawa",
+        "OPT3": "Malé",
+        "OPT4": "Bogotá",
+        "_id": 637
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Vincent and the Grenadines",
+        "OPT1": "Kingstown",
+        "OPT2": "Valletta",
+        "OPT3": "Port Moresby",
+        "OPT4": "Washington, D.C.",
+        "_id": 638
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cuba",
+        "OPT1": "Havana",
+        "OPT2": "Roseau",
+        "OPT3": "Paris",
+        "OPT4": "Kampala",
+        "_id": 639
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_estonia",
+        "OPT1": "Estonia",
+        "OPT2": "South Sudan",
+        "OPT3": "Costa Rica",
+        "OPT4": "The United States",
+        "_id": 640
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt022",
+        "OPT1": "Cup",
+        "OPT2": "Pitcher",
+        "OPT3": "Blinds",
+        "OPT4": "Spoons",
+        "_id": 641
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals119",
+        "OPT1": "Meerkat",
+        "OPT2": "Dog",
+        "OPT3": "Polar Bear",
+        "OPT4": "Leopard",
+        "_id": 642
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Transnistria",
+        "OPT1": "Tiraspol",
+        "OPT2": "Tórshavn",
+        "OPT3": "Malabo",
+        "OPT4": "Lisbon",
+        "_id": 643
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kiribati",
+        "OPT1": "Tarawa",
+        "OPT2": "George Town",
+        "OPT3": "Amman",
+        "OPT4": "Baghdad",
+        "_id": 644
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Lithuania",
+        "OPT1": "Vilnius",
+        "OPT2": "Thimphu",
+        "OPT3": "Kingston",
+        "OPT4": "St. John's",
+        "_id": 645
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt113",
+        "OPT1": "Door Knob",
+        "OPT2": "Pans",
+        "OPT3": "Lampshade",
+        "OPT4": "Calendar",
+        "_id": 646
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt086",
+        "OPT1": "Tissues",
+        "OPT2": "Door Knob",
+        "OPT3": "Pen",
+        "OPT4": "Drill",
+        "_id": 647
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_nicaragua",
+        "OPT1": "Nicaragua",
+        "OPT2": "Laos",
+        "OPT3": "Hungary",
+        "OPT4": "Tanzania",
+        "_id": 648
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals114",
+        "OPT1": "Lobster",
+        "OPT2": "Anaconda",
+        "OPT3": "Arctic Wolf",
+        "OPT4": "Polar Bear",
+        "_id": 649
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_seychelles",
+        "OPT1": "Seychelles",
+        "OPT2": "Maldives",
+        "OPT3": "Georgia",
+        "OPT4": "Qatar",
+        "_id": 650
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt076",
+        "OPT1": "Smoke Detector",
+        "OPT2": "Rug",
+        "OPT3": "Shelf",
+        "OPT4": "Socks",
+        "_id": 651
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bulgaria",
+        "OPT1": "Sofia",
+        "OPT2": "Stanley",
+        "OPT3": "Tashkent",
+        "OPT4": "Warsaw",
+        "_id": 652
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals171",
+        "OPT1": "Sole",
+        "OPT2": "Goose",
+        "OPT3": "Macaw",
+        "OPT4": "Worm",
+        "_id": 653
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals154",
+        "OPT1": "Raccoon",
+        "OPT2": "Bat",
+        "OPT3": "Deer",
+        "OPT4": "Monkey",
+        "_id": 654
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals181",
+        "OPT1": "Termite",
+        "OPT2": "Jackal",
+        "OPT3": "Bonobo",
+        "OPT4": "Hamster",
+        "_id": 655
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ukraine",
+        "OPT1": "Kiev",
+        "OPT2": "Nairobi",
+        "OPT3": "Panama City",
+        "OPT4": "Episkopi Cantonment",
+        "_id": 656
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_greece",
+        "OPT1": "Greece",
+        "OPT2": "Botswana",
+        "OPT3": "Bhutan",
+        "OPT4": "Georgia",
+        "_id": 657
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_niger",
+        "OPT1": "Niger",
+        "OPT2": "Malaysia",
+        "OPT3": "Uruguay",
+        "OPT4": "indonesia",
+        "_id": 658
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Italy",
+        "OPT1": "Rome",
+        "OPT2": "Victoria",
+        "OPT3": "Andorra la Vella",
+        "OPT4": "Tarawa",
+        "_id": 659
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals59",
+        "OPT1": "Crow",
+        "OPT2": "Chicken",
+        "OPT3": "Turtle",
+        "OPT4": "Bee",
+        "_id": 660
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Jersey",
+        "OPT1": "St. Helier",
+        "OPT2": "Stockholm",
+        "OPT3": "Antananarivo",
+        "OPT4": "Ljubljana",
+        "_id": 661
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Gabon",
+        "OPT1": "Libreville",
+        "OPT2": "Riyadh",
+        "OPT3": "Khartoum",
+        "OPT4": "George Town",
+        "_id": 662
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Kuwait",
+        "OPT1": "Kuwait City",
+        "OPT2": "Algiers",
+        "OPT3": "Ramallah and Gaza (de facto)",
+        "OPT4": "Gustavia",
+        "_id": 663
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals81",
+        "OPT1": "Goat",
+        "OPT2": "Roadrunner",
+        "OPT3": "Bass",
+        "OPT4": "Iguana",
+        "_id": 664
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals68",
+        "OPT1": "Egret",
+        "OPT2": "Komodo Dragon",
+        "OPT3": "Badger",
+        "OPT4": "Butterfly",
+        "_id": 665
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler6",
+        "OPT1": "Apricot",
+        "OPT2": "Green Beans",
+        "OPT3": "Plum",
+        "OPT4": "Shallot",
+        "_id": 666
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals194",
+        "OPT1": "Woodpecker",
+        "OPT2": "Pony",
+        "OPT3": "Beetle",
+        "OPT4": "Dove",
+        "_id": 667
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler89",
+        "OPT1": "Pineapple",
+        "OPT2": "Strawberry",
+        "OPT3": "Mandarin Orange",
+        "OPT4": "Tomato",
+        "_id": 668
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals136",
+        "OPT1": "Owl",
+        "OPT2": "Pony",
+        "OPT3": "Raven",
+        "OPT4": "Sloth",
+        "_id": 669
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Honduras",
+        "OPT1": "Tegucigalpa",
+        "OPT2": "Ramallah and Gaza (de facto)",
+        "OPT3": "Pretoria (executive)",
+        "OPT4": "Hagåtña",
+        "_id": 670
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler67",
+        "OPT1": "Key Lime",
+        "OPT2": "GrannySmithApple",
+        "OPT3": "Kiwi Fruit",
+        "OPT4": "Mango",
+        "_id": 671
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler33",
+        "OPT1": "Zucchini",
+        "OPT2": "Lime",
+        "OPT3": "Brussels Sprouts",
+        "OPT4": "Green Bell Pepper",
+        "_id": 672
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler32",
+        "OPT1": "Watermelon",
+        "OPT2": "Potato",
+        "OPT3": "Lime",
+        "OPT4": "Okra",
+        "_id": 673
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_morocco",
+        "OPT1": "Morocco",
+        "OPT2": "Brunei",
+        "OPT3": "Germany",
+        "OPT4": "Pakistan",
+        "_id": 674
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Australia",
+        "OPT1": "Canberra",
+        "OPT2": "Freetown",
+        "OPT3": "Manila",
+        "OPT4": "Libreville",
+        "_id": 675
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Niue",
+        "OPT1": "Alofi",
+        "OPT2": "Georgetown",
+        "OPT3": "Adamstown",
+        "OPT4": "Kiev",
+        "_id": 676
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals158",
+        "OPT1": "Reptile",
+        "OPT2": "Impala",
+        "OPT3": "Termite",
+        "OPT4": "Kangaroo",
+        "_id": 677
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals180",
+        "OPT1": "Tasmanian Devil",
+        "OPT2": "Snail",
+        "OPT3": "Buffalo",
+        "OPT4": "Fox",
+        "_id": 678
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_cook_islands",
+        "OPT1": "The Cook islands",
+        "OPT2": "Guatemala",
+        "OPT3": "Brunei",
+        "OPT4": "Peru",
+        "_id": 679
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals160",
+        "OPT1": "Roadrunner",
+        "OPT2": "Pigeon",
+        "OPT3": "Jellyfish",
+        "OPT4": "Crab",
+        "_id": 680
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals146",
+        "OPT1": "Polar Bear",
+        "OPT2": "Gorilla",
+        "OPT3": "Earthworm",
+        "OPT4": "Peacock",
+        "_id": 681
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals127",
+        "OPT1": "Mountain Goat",
+        "OPT2": "Peacock",
+        "OPT3": "Tiger",
+        "OPT4": "Giraffe",
+        "_id": 682
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "indonesia",
+        "OPT1": "Jakarta",
+        "OPT2": "Belgrade",
+        "OPT3": "Yaren (de facto)",
+        "OPT4": "Algiers",
+        "_id": 683
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guyana",
+        "OPT1": "Georgetown",
+        "OPT2": "Bamako",
+        "OPT3": "Port Vila",
+        "OPT4": "Yaren (de facto)",
+        "_id": 684
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Faroe islands",
+        "OPT1": "Tórshavn",
+        "OPT2": "Muscat",
+        "OPT3": "TIrana",
+        "OPT4": "Belmopan",
+        "_id": 685
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mauritania",
+        "OPT1": "Mauritania",
+        "OPT2": "Denmark",
+        "OPT3": "The Bahamas",
+        "OPT4": "Jordan",
+        "_id": 686
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_spain",
+        "OPT1": "Spain",
+        "OPT2": "Samoa",
+        "OPT3": "Chile",
+        "OPT4": "The Dominican Republic",
+        "_id": 687
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt015",
+        "OPT1": "Chairs",
+        "OPT2": "Jewelry",
+        "OPT3": "Tablecloth",
+        "OPT4": "Flatware",
+        "_id": 688
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Venezuela",
+        "OPT1": "Caracas",
+        "OPT2": "Tiraspol",
+        "OPT3": "Muscat",
+        "OPT4": "The Valley",
+        "_id": 689
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "China",
+        "OPT1": "Beijing",
+        "OPT2": "Brussels",
+        "OPT3": "Jamestown",
+        "OPT4": "Nuku'alofa",
+        "_id": 690
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_trinidad_and_tobago",
+        "OPT1": "Trinidad and Tobago",
+        "OPT2": "Estonia",
+        "OPT3": "Benin",
+        "OPT4": "Maldives",
+        "_id": 691
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_ghana",
+        "OPT1": "Ghana",
+        "OPT2": "Bhutan",
+        "OPT3": "Transnistria",
+        "OPT4": "Guinea-Bissau",
+        "_id": 692
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tuvalu",
+        "OPT1": "Funafuti",
+        "OPT2": "Paris",
+        "OPT3": "Kabul",
+        "OPT4": "Abu Dhabi",
+        "_id": 693
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ecuador",
+        "OPT1": "Quito",
+        "OPT2": "Managua",
+        "OPT3": "Edinburgh of the Seven Seas",
+        "OPT4": "Prague",
+        "_id": 694
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt036",
+        "OPT1": "Flashlight",
+        "OPT2": "Chair",
+        "OPT3": "Blankets",
+        "OPT4": "Toilet Paper",
+        "_id": 695
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals76",
+        "OPT1": "Frog",
+        "OPT2": "Yak",
+        "OPT3": "Clownfish",
+        "OPT4": "Ladybug",
+        "_id": 696
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_czech_republic",
+        "OPT1": "The Czech Republic",
+        "OPT2": "Liechtenstein",
+        "OPT3": "Yemen",
+        "OPT4": "Latvia",
+        "_id": 697
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_maldives",
+        "OPT1": "Maldives",
+        "OPT2": "Palau",
+        "OPT3": "The Dominican Republic",
+        "OPT4": "Switzerland",
+        "_id": 698
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt074",
+        "OPT1": "Shirt",
+        "OPT2": "Fan",
+        "OPT3": "Dish Towel",
+        "OPT4": "Microwave",
+        "_id": 699
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Anguilla",
+        "OPT1": "The Valley",
+        "OPT2": "Dakar",
+        "OPT3": "Guatemala City",
+        "OPT4": "Basseterre",
+        "_id": 700
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Trinidad and Tobago",
+        "OPT1": "Port of Spain",
+        "OPT2": "Zagreb",
+        "OPT3": "Road Town",
+        "OPT4": "Damascus",
+        "_id": 701
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Palau",
+        "OPT1": "Melekeok (official)",
+        "OPT2": "Mexico City",
+        "OPT3": "Honiara",
+        "OPT4": "Bern",
+        "_id": 702
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt091",
+        "OPT1": "Towels",
+        "OPT2": "Knives",
+        "OPT3": "Door Handle",
+        "OPT4": "Lampshade",
+        "_id": 703
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Norway",
+        "OPT1": "Oslo",
+        "OPT2": "Edinburgh of the Seven Seas",
+        "OPT3": "Lusaka",
+        "OPT4": "Havana",
+        "_id": 704
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Puerto Rico",
+        "OPT1": "San Juan",
+        "OPT2": "Papeete",
+        "OPT3": "Brasília",
+        "OPT4": "Bratislava",
+        "_id": 705
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Cocos (Keeling) islands",
+        "OPT1": "West island",
+        "OPT2": "Adamstown",
+        "OPT3": "Apia",
+        "OPT4": "TIrana",
+        "_id": 706
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals129",
+        "OPT1": "Muskox",
+        "OPT2": "Porcupine",
+        "OPT3": "Mole",
+        "OPT4": "Gorilla",
+        "_id": 707
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler7",
+        "OPT1": "Raspberry",
+        "OPT2": "Mango",
+        "OPT3": "Daikon",
+        "OPT4": "Cabbage",
+        "_id": 708
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals8",
+        "OPT1": "Anaconda",
+        "OPT2": "Goldfish",
+        "OPT3": "Lobster",
+        "OPT4": "Quail",
+        "_id": 709
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals111",
+        "OPT1": "Lion",
+        "OPT2": "Caterpillar",
+        "OPT3": "Wolf",
+        "OPT4": "Goat",
+        "_id": 710
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guatemala",
+        "OPT1": "Guatemala City",
+        "OPT2": "N'Djamena",
+        "OPT3": "Lima",
+        "OPT4": "London",
+        "_id": 711
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_gambia",
+        "OPT1": "The Gambia",
+        "OPT2": "Somaliland",
+        "OPT3": "Kuwait",
+        "OPT4": "Tunisia",
+        "_id": 712
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_federated_states_of_micronesia",
+        "OPT1": "The Federated States of Micronesia",
+        "OPT2": "The Philippines",
+        "OPT3": "Bolivia",
+        "OPT4": "Thailand",
+        "_id": 713
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals13",
+        "OPT1": "Aphid",
+        "OPT2": "Rat",
+        "OPT3": "Komodo Dragon",
+        "OPT4": "Rhinoceros",
+        "_id": 714
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_vietnam",
+        "OPT1": "Vietnam",
+        "OPT2": "The Netherlands",
+        "OPT3": "Malawi",
+        "OPT4": "Uruguay",
+        "_id": 715
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tokelau",
+        "OPT1": "Tokelau",
+        "OPT2": "Guatemala",
+        "OPT3": "Barbados",
+        "OPT4": "Brunei",
+        "_id": 716
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt017",
+        "OPT1": "Comb",
+        "OPT2": "Jewelry",
+        "OPT3": "Medicine",
+        "OPT4": "Door Knob",
+        "_id": 717
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Hungary",
+        "OPT1": "Budapest",
+        "OPT2": "Tbilisi (official)",
+        "OPT3": "Kingstown",
+        "OPT4": "El Aaiún (declared)",
+        "_id": 718
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals189",
+        "OPT1": "Wasp",
+        "OPT2": "Aardvark",
+        "OPT3": "Iguana",
+        "OPT4": "Sparrow",
+        "_id": 719
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals52",
+        "OPT1": "Cockroach",
+        "OPT2": "Termite",
+        "OPT3": "Moth",
+        "OPT4": "Wallaby",
+        "_id": 720
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_saint_vincent_and_the_grenadines",
+        "OPT1": "Saint Vincent and the Grenadines",
+        "OPT2": "Russia",
+        "OPT3": "Botswana",
+        "OPT4": "Kiribati",
+        "_id": 721
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_belarus",
+        "OPT1": "Belarus",
+        "OPT2": "iceland",
+        "OPT3": "Australia",
+        "OPT4": "The Turkish Republic of Northern Cyprus",
+        "_id": 722
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_costa_rica",
+        "OPT1": "Costa Rica",
+        "OPT2": "Australia",
+        "OPT3": "Denmark",
+        "OPT4": "Iran",
+        "_id": 723
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler77",
+        "OPT1": "Orange",
+        "OPT2": "Black Currant",
+        "OPT3": "Green Bell Pepper",
+        "OPT4": "Starfruit",
+        "_id": 724
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_belize",
+        "OPT1": "Belize",
+        "OPT2": "Yemen",
+        "OPT3": "Nigeria",
+        "OPT4": "Vanuatu",
+        "_id": 725
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Syria",
+        "OPT1": "Damascus",
+        "OPT2": "Nassau",
+        "OPT3": "Dodoma (official), Dar es Salaam (former capital)",
+        "OPT4": "Seoul",
+        "_id": 726
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals38",
+        "OPT1": "Camel",
+        "OPT2": "Arctic Wolf",
+        "OPT3": "Aphid",
+        "OPT4": "Eagle",
+        "_id": 727
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Albania",
+        "OPT1": "TIrana",
+        "OPT2": "Montevideo",
+        "OPT3": "Wellington",
+        "OPT4": "Nicosia",
+        "_id": 728
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_australia",
+        "OPT1": "Australia",
+        "OPT2": "Benin",
+        "OPT3": "Iraq",
+        "OPT4": "Haiti",
+        "_id": 729
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_palau",
+        "OPT1": "Palau",
+        "OPT2": "Kazakhstan",
+        "OPT3": "Togo",
+        "OPT4": "The Republic of China",
+        "_id": 730
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals49",
+        "OPT1": "Clam",
+        "OPT2": "Woodpecker",
+        "OPT3": "Camel",
+        "OPT4": "Aphid",
+        "_id": 731
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler65",
+        "OPT1": "Gooseberry",
+        "OPT2": "Endive Lettuce",
+        "OPT3": "Corn",
+        "OPT4": "Butternut Squash",
+        "_id": 732
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler52",
+        "OPT1": "Cucumber",
+        "OPT2": "Garlic",
+        "OPT3": "Cherimoya",
+        "OPT4": "Blueberry",
+        "_id": 733
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Brunei",
+        "OPT1": "Bandar Seri Begawan",
+        "OPT2": "Astana",
+        "OPT3": "Ulan Bator",
+        "OPT4": "Conakry",
+        "_id": 734
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_east_timor",
+        "OPT1": "East Timor",
+        "OPT2": "The Marshall islands",
+        "OPT3": "Eritrea",
+        "OPT4": "Montenegro",
+        "_id": 735
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt047",
+        "OPT1": "Linens",
+        "OPT2": "Pencil",
+        "OPT3": "Couch",
+        "OPT4": "Vacuum",
+        "_id": 736
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals165",
+        "OPT1": "Sea Lion",
+        "OPT2": "Clam",
+        "OPT3": "Flamingo",
+        "OPT4": "Fly",
+        "_id": 737
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Easter island",
+        "OPT1": "Hanga Roa",
+        "OPT2": "Luanda",
+        "OPT3": "Pago Pago",
+        "OPT4": "Bamako",
+        "_id": 738
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Maldives",
+        "OPT1": "Malé",
+        "OPT2": "Bangui",
+        "OPT3": "Bratislava",
+        "OPT4": "Kigali",
+        "_id": 739
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_vanuatu",
+        "OPT1": "Vanuatu",
+        "OPT2": "Algeria",
+        "OPT3": "Sudan",
+        "OPT4": "Hungary",
+        "_id": 740
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler60",
+        "OPT1": "Green Beans",
+        "OPT2": "Celery",
+        "OPT3": "Green Onion",
+        "OPT4": "Cherimoya",
+        "_id": 741
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals2",
+        "OPT1": "Buffalo",
+        "OPT2": "Jellyfish",
+        "OPT3": "Arctic Fox",
+        "OPT4": "Clownfish",
+        "_id": 742
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_thebritishvirginislands",
+        "OPT1": "The British Virgin islands",
+        "OPT2": "Somalia",
+        "OPT3": "Fiji",
+        "OPT4": "Papua New Guinea",
+        "_id": 743
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals167",
+        "OPT1": "Sheep",
+        "OPT2": "Buffalo",
+        "OPT3": "Cobra",
+        "OPT4": "Tiger",
+        "_id": 744
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt112",
+        "OPT1": "Door Handle",
+        "OPT2": "Armoire",
+        "OPT3": "Saucer",
+        "OPT4": "Timer",
+        "_id": 745
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals46",
+        "OPT1": "Chicken",
+        "OPT2": "Wasp",
+        "OPT3": "Moose",
+        "OPT4": "Arctic Fox",
+        "_id": 746
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals83",
+        "OPT1": "Goose",
+        "OPT2": "Beaver",
+        "OPT3": "Monkey",
+        "OPT4": "Antelope",
+        "_id": 747
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_burkina_faso",
+        "OPT1": "Burkina Faso",
+        "OPT2": "Libya",
+        "OPT3": "Turkmenistan",
+        "OPT4": "Kazakhstan",
+        "_id": 748
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt111",
+        "OPT1": "Coat Hanger",
+        "OPT2": "Dishwasher",
+        "OPT3": "Screw Driver",
+        "OPT4": "Pencil",
+        "_id": 749
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals94",
+        "OPT1": "Horse",
+        "OPT2": "Mockingbird",
+        "OPT3": "Elk",
+        "OPT4": "Scorpion",
+        "_id": 750
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Malawi",
+        "OPT1": "Lilongwe",
+        "OPT2": "Bratislava",
+        "OPT3": "Banjul",
+        "OPT4": "Cockburn Town",
+        "_id": 751
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Grenada",
+        "OPT1": "St. George's",
+        "OPT2": "Manila",
+        "OPT3": "Tripoli",
+        "OPT4": "Brussels",
+        "_id": 752
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler8",
+        "OPT1": "Romaine Lettuce",
+        "OPT2": "Daikon",
+        "OPT3": "Blackberry",
+        "OPT4": "Mushroom",
+        "_id": 753
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals85",
+        "OPT1": "Grasshopper",
+        "OPT2": "Falcon",
+        "OPT3": "Caribou",
+        "OPT4": "Salmon",
+        "_id": 754
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Azerbaijan",
+        "OPT1": "Baku",
+        "OPT2": "Jamestown",
+        "OPT3": "Majuro",
+        "OPT4": "Doha",
+        "_id": 755
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals89",
+        "OPT1": "Hamster",
+        "OPT2": "Lynx",
+        "OPT3": "Hummingbird",
+        "OPT4": "Shrimp",
+        "_id": 756
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tonga",
+        "OPT1": "Nuku'alofa",
+        "OPT2": "New Delhi",
+        "OPT3": "Tskhinvali",
+        "OPT4": "Oranjestad",
+        "_id": 757
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Wallis and Futuna",
+        "OPT1": "Mata-Utu",
+        "OPT2": "Saipan",
+        "OPT3": "Dakar",
+        "OPT4": "Rome",
+        "_id": 758
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals73",
+        "OPT1": "Flamingo",
+        "OPT2": "Leech",
+        "OPT3": "Mouse",
+        "OPT4": "Carp",
+        "_id": 759
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals132",
+        "OPT1": "Orangutan",
+        "OPT2": "Deer",
+        "OPT3": "Wallaby",
+        "OPT4": "Marmot",
+        "_id": 760
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sint Maarten",
+        "OPT1": "Philipsburg",
+        "OPT2": "San Salvador",
+        "OPT3": "Athens",
+        "OPT4": "Dhaka",
+        "_id": 761
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler84",
+        "OPT1": "Endive Lettuce",
+        "OPT2": "Asparagus",
+        "OPT3": "Grapefruit",
+        "OPT4": "Nectarine",
+        "_id": 762
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Morocco",
+        "OPT1": "Rabat",
+        "OPT2": "Gustavia",
+        "OPT3": "Astana",
+        "OPT4": "Luxembourg",
+        "_id": 763
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals101",
+        "OPT1": "Jellyfish",
+        "OPT2": "Rhinoceros",
+        "OPT3": "Cuckoo",
+        "OPT4": "Swan",
+        "_id": 764
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Canada",
+        "OPT1": "Ottawa",
+        "OPT2": "Lomé",
+        "OPT3": "St. John's",
+        "OPT4": "Manila",
+        "_id": 765
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "French Guiana",
+        "OPT1": "Cayenne",
+        "OPT2": "Pyongyang",
+        "OPT3": "São Tomé",
+        "OPT4": "Nouméa",
+        "_id": 766
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_nauru",
+        "OPT1": "Nauru",
+        "OPT2": "Colombia",
+        "OPT3": "Lithuania",
+        "OPT4": "The Sahrawi Arab Democratic Republic",
+        "_id": 767
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_democratic_republic_of_the_congo",
+        "OPT1": "The Democratic Republic of the Congo",
+        "OPT2": "Japan",
+        "OPT3": "Uzbekistan",
+        "OPT4": "Niger",
+        "_id": 768
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals15",
+        "OPT1": "Arctic Wolf",
+        "OPT2": "Leopard",
+        "OPT3": "Bear",
+        "OPT4": "Turtle",
+        "_id": 769
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals156",
+        "OPT1": "Raven",
+        "OPT2": "Chipmunk",
+        "OPT3": "Vulture",
+        "OPT4": "Alligator",
+        "_id": 770
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals1",
+        "OPT1": "Aardvark",
+        "OPT2": "Dolphin",
+        "OPT3": "Hawk",
+        "OPT4": "Pheasant",
+        "_id": 771
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_monaco",
+        "OPT1": "Monaco",
+        "OPT2": "The United Kingdom",
+        "OPT3": "Mali",
+        "OPT4": "Yemen",
+        "_id": 772
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cape_verde",
+        "OPT1": "Cape Verde",
+        "OPT2": "Sudan",
+        "OPT3": "Andorra",
+        "OPT4": "Bahrain",
+        "_id": 773
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_egypt",
+        "OPT1": "Egypt",
+        "OPT2": "The Democratic Republic of the Congo",
+        "OPT3": "The Solomon islands",
+        "OPT4": "Ukraine",
+        "_id": 774
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt027",
+        "OPT1": "Door Stop",
+        "OPT2": "Broom",
+        "OPT3": "Toaster",
+        "OPT4": "Towels",
+        "_id": 775
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals14",
+        "OPT1": "Arctic Fox",
+        "OPT2": "Orca",
+        "OPT3": "Bald Eagle",
+        "OPT4": "Elephant",
+        "_id": 776
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals193",
+        "OPT1": "Wolf",
+        "OPT2": "Coral",
+        "OPT3": "Pony",
+        "OPT4": "Albatross",
+        "_id": 777
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Germany",
+        "OPT1": "Berlin",
+        "OPT2": "Road Town",
+        "OPT3": "Tallinn",
+        "OPT4": "Nassau",
+        "_id": 778
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals86",
+        "OPT1": "Guinea Pig",
+        "OPT2": "Penguin",
+        "OPT3": "Blackbird",
+        "OPT4": "Tortoise",
+        "_id": 779
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler82",
+        "OPT1": "Green Onion",
+        "OPT2": "Green Grapes",
+        "OPT3": "Watercress",
+        "OPT4": "Spinach",
+        "_id": 780
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals34",
+        "OPT1": "Bobcat",
+        "OPT2": "Sheep",
+        "OPT3": "Aardvark",
+        "OPT4": "Camel",
+        "_id": 781
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler1",
+        "OPT1": "Avacado",
+        "OPT2": "Kale",
+        "OPT3": "Red Grapes",
+        "OPT4": "Lemon",
+        "_id": 782
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_kiribati",
+        "OPT1": "Kiribati",
+        "OPT2": "Kyrgyzstan",
+        "OPT3": "Ukraine",
+        "OPT4": "Luxembourg",
+        "_id": 783
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_liechtenstein",
+        "OPT1": "Liechtenstein",
+        "OPT2": "indonesia",
+        "OPT3": "Albania",
+        "OPT4": "Austria",
+        "_id": 784
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals191",
+        "OPT1": "Weasel",
+        "OPT2": "Ape",
+        "OPT3": "Starfish",
+        "OPT4": "Giant Panda",
+        "_id": 785
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "South Africa",
+        "OPT1": "Pretoria (executive)",
+        "OPT2": "Kingston",
+        "OPT3": "Bogotá",
+        "OPT4": "Port Louis",
+        "_id": 786
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_benin",
+        "OPT1": "Benin",
+        "OPT2": "The Federated States of Micronesia",
+        "OPT3": "The Sahrawi Arab Democratic Republic",
+        "OPT4": "Swaziland",
+        "_id": 787
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Saint Kitts and Nevis",
+        "OPT1": "Basseterre",
+        "OPT2": "St. Helier",
+        "OPT3": "Bissau",
+        "OPT4": "Yaoundé",
+        "_id": 788
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt057",
+        "OPT1": "Paper",
+        "OPT2": "Dust Pan",
+        "OPT3": "Light Bulbs",
+        "OPT4": "Flower",
+        "_id": 789
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Guernsey",
+        "OPT1": "St. Peter Port",
+        "OPT2": "Episkopi Cantonment",
+        "OPT3": "Washington, D.C.",
+        "OPT4": "St. Helier",
+        "_id": 790
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler87",
+        "OPT1": "Red Grapes",
+        "OPT2": "Key Lime",
+        "OPT3": "Fig",
+        "OPT4": "Green Beans",
+        "_id": 791
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_americansamoa",
+        "OPT1": "American Samoa",
+        "OPT2": "Chile",
+        "OPT3": "Yemen",
+        "OPT4": "Macedonia",
+        "_id": 792
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_gabon",
+        "OPT1": "Gabon",
+        "OPT2": "Armenia",
+        "OPT3": "Kiribati",
+        "OPT4": "Slovenia",
+        "_id": 793
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals100",
+        "OPT1": "Jaguar",
+        "OPT2": "Egret",
+        "OPT3": "Orangutan",
+        "OPT4": "Vulture",
+        "_id": 794
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_turkish_republic_of_northern_cyprus",
+        "OPT1": "The Turkish Republic of Northern Cyprus",
+        "OPT2": "Portugal",
+        "OPT3": "Abkhazia",
+        "OPT4": "Panama",
+        "_id": 795
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Suriname",
+        "OPT1": "Paramaribo",
+        "OPT2": "Hanoi",
+        "OPT3": "Managua",
+        "OPT4": "Muscat",
+        "_id": 796
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals63",
+        "OPT1": "Dolphin",
+        "OPT2": "Puffin",
+        "OPT3": "Anaconda",
+        "OPT4": "Lion",
+        "_id": 797
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals138",
+        "OPT1": "Parrot",
+        "OPT2": "Cuckoo",
+        "OPT3": "Marmot",
+        "OPT4": "Turkey",
+        "_id": 798
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals79",
+        "OPT1": "Giant Panda",
+        "OPT2": "Albatross",
+        "OPT3": "Dove",
+        "OPT4": "Bison",
+        "_id": 799
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler29",
+        "OPT1": "Shallot",
+        "OPT2": "Red Bell Pepper",
+        "OPT3": "Spinach",
+        "OPT4": "Mandarin Orange",
+        "_id": 800
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals16",
+        "OPT1": "Armadillo",
+        "OPT2": "Anteater",
+        "OPT3": "Yak",
+        "OPT4": "Puffin",
+        "_id": 801
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt106",
+        "OPT1": "Radiator",
+        "OPT2": "Table",
+        "OPT3": "Rug",
+        "OPT4": "Blankets",
+        "_id": 802
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_tuvalu",
+        "OPT1": "Tuvalu",
+        "OPT2": "Egypt",
+        "OPT3": "Tanzania",
+        "OPT4": "The Marshall islands",
+        "_id": 803
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals88",
+        "OPT1": "Haddock",
+        "OPT2": "Ox",
+        "OPT3": "Cheetah",
+        "OPT4": "Earthworm",
+        "_id": 804
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals168",
+        "OPT1": "Shrimp",
+        "OPT2": "Tuna",
+        "OPT3": "Cougar",
+        "OPT4": "Praying Mantis",
+        "_id": 805
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals110",
+        "OPT1": "Leopard",
+        "OPT2": "Mosquito",
+        "OPT3": "Black Panther",
+        "OPT4": "Spider",
+        "_id": 806
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler61",
+        "OPT1": "Green Grapes",
+        "OPT2": "Pineapple",
+        "OPT3": "Iceberg Lettuce",
+        "OPT4": "Persimmon",
+        "_id": 807
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_comoros",
+        "OPT1": "The Comoros",
+        "OPT2": "Bosnia and Herzegovina",
+        "OPT3": "Peru",
+        "OPT4": "Azerbaijan",
+        "_id": 808
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bermuda",
+        "OPT1": "Hamilton",
+        "OPT2": "Ouagadougou",
+        "OPT3": "Port Louis",
+        "OPT4": "Minsk",
+        "_id": 809
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Thailand",
+        "OPT1": "Bangkok",
+        "OPT2": "Nouméa",
+        "OPT3": "Kiev",
+        "OPT4": "Ankara",
+        "_id": 810
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals170",
+        "OPT1": "Snail",
+        "OPT2": "Shrimp",
+        "OPT3": "Boa Snake",
+        "OPT4": "Starfish",
+        "_id": 811
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_jamaica",
+        "OPT1": "Jamaica",
+        "OPT2": "Chile",
+        "OPT3": "Israel",
+        "OPT4": "Seychelles",
+        "_id": 812
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_togo",
+        "OPT1": "Togo",
+        "OPT2": "Sierra Leone",
+        "OPT3": "Cuba",
+        "OPT4": "Sao Tome and Principe",
+        "_id": 813
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt102",
+        "OPT1": "Knives",
+        "OPT2": "Clock",
+        "OPT3": "Houseplant",
+        "OPT4": "Books",
+        "_id": 814
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Czech Republic",
+        "OPT1": "Prague",
+        "OPT2": "Santo Domingo",
+        "OPT3": "Yamoussoukro (official)",
+        "OPT4": "Dhaka",
+        "_id": 815
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt038",
+        "OPT1": "Flower",
+        "OPT2": "Tablecloth",
+        "OPT3": "Radio",
+        "OPT4": "Pen",
+        "_id": 816
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals112",
+        "OPT1": "Lizard",
+        "OPT2": "Boa Snake",
+        "OPT3": "Elephant",
+        "OPT4": "Cow",
+        "_id": 817
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt026",
+        "OPT1": "Dishwasher",
+        "OPT2": "Door Stop",
+        "OPT3": "Radiator",
+        "OPT4": "Knives",
+        "_id": 818
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt114",
+        "OPT1": "Doormat",
+        "OPT2": "Door Knob",
+        "OPT3": "Dryer",
+        "OPT4": "Pliers",
+        "_id": 819
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_saintbarthelemy",
+        "OPT1": "Saint Barthelemy",
+        "OPT2": "Tuvalu",
+        "OPT3": "The People's Republic of China",
+        "OPT4": "Saudi Arabia",
+        "_id": 820
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Somaliland",
+        "OPT1": "Hargeisa",
+        "OPT2": "San Marino",
+        "OPT3": "Castries",
+        "OPT4": "Oslo",
+        "_id": 821
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler73",
+        "OPT1": "Collard Greens",
+        "OPT2": "Cabbage",
+        "OPT3": "Okra",
+        "OPT4": "Blackberry",
+        "_id": 822
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_malaysia",
+        "OPT1": "Malaysia",
+        "OPT2": "Somalia",
+        "OPT3": "The United Arab Emirates",
+        "OPT4": "Tonga",
+        "_id": 823
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals80",
+        "OPT1": "Giraffe",
+        "OPT2": "Cougar",
+        "OPT3": "Centipede",
+        "OPT4": "Buffalo",
+        "_id": 824
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "French Polynesia",
+        "OPT1": "Papeete",
+        "OPT2": "London",
+        "OPT3": "Bandar Seri Begawan",
+        "OPT4": "Tashkent",
+        "_id": 825
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler39",
+        "OPT1": "Clemintine",
+        "OPT2": "Tomatillo",
+        "OPT3": "Acorn Squash",
+        "OPT4": "Beet",
+        "_id": 826
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals150",
+        "OPT1": "Puffin",
+        "OPT2": "Seahorse",
+        "OPT3": "Blue Whale",
+        "OPT4": "Bass",
+        "_id": 827
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_crowncolonyofsingapore",
+        "OPT1": "Crown Colony of Singapore",
+        "OPT2": "Guinea-Bissau",
+        "OPT3": "South Ossetia",
+        "OPT4": "The Cook islands",
+        "_id": 828
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt093",
+        "OPT1": "TV",
+        "OPT2": "Plate",
+        "OPT3": "Brush",
+        "OPT4": "Credenza",
+        "_id": 829
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt003",
+        "OPT1": "Bedspread",
+        "OPT2": "Oven",
+        "OPT3": "Vacuum",
+        "OPT4": "Radiator",
+        "_id": 830
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bosnia and Herzegovina",
+        "OPT1": "Sarajevo",
+        "OPT2": "Ottawa",
+        "OPT3": "Willemstad",
+        "OPT4": "Ankara",
+        "_id": 831
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_bangladesh",
+        "OPT1": "Bangladesh",
+        "OPT2": "New Zealand",
+        "OPT3": "Tuvalu",
+        "OPT4": "Turkmenistan",
+        "_id": 832
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler22",
+        "OPT1": "Olive",
+        "OPT2": "Plum",
+        "OPT3": "Strawberry",
+        "OPT4": "Peach",
+        "_id": 833
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tajikistan",
+        "OPT1": "Dushanbe",
+        "OPT2": "Bucharest",
+        "OPT3": "St. George's",
+        "OPT4": "Podgorica (official)",
+        "_id": 834
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt119",
+        "OPT1": "Sponge",
+        "OPT2": "Refrigerator",
+        "OPT3": "Dustpan And Brush",
+        "OPT4": "Jewelry",
+        "_id": 835
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Ghana",
+        "OPT1": "Accra",
+        "OPT2": "Majuro",
+        "OPT3": "Dili",
+        "OPT4": "Antananarivo",
+        "_id": 836
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals95",
+        "OPT1": "Hummingbird",
+        "OPT2": "Baboon",
+        "OPT3": "Mosquito",
+        "OPT4": "Elephant",
+        "_id": 837
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Bangladesh",
+        "OPT1": "Dhaka",
+        "OPT2": "Bridgetown",
+        "OPT3": "Vienna",
+        "OPT4": "Adamstown",
+        "_id": 838
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt088",
+        "OPT1": "Toilet Paper",
+        "OPT2": "Comforter",
+        "OPT3": "Sneakers",
+        "OPT4": "Shoes",
+        "_id": 839
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals55",
+        "OPT1": "Cow",
+        "OPT2": "Piranha",
+        "OPT3": "Pelican",
+        "OPT4": "Tarantula",
+        "_id": 840
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_saint_kitts_and_nevis",
+        "OPT1": "Saint Kitts and Nevis",
+        "OPT2": "Iran",
+        "OPT3": "Namibia",
+        "OPT4": "The United Kingdom",
+        "_id": 841
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_serbia",
+        "OPT1": "Serbia",
+        "OPT2": "The Comoros",
+        "OPT3": "Ecuador",
+        "OPT4": "iceland",
+        "_id": 842
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler30",
+        "OPT1": "Honeydew Melon",
+        "OPT2": "Butternut Squash",
+        "OPT3": "Zucchini",
+        "OPT4": "Romaine Lettuce",
+        "_id": 843
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals187",
+        "OPT1": "Vulture",
+        "OPT2": "Parrot",
+        "OPT3": "Lobster",
+        "OPT4": "Hyena",
+        "_id": 844
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals82",
+        "OPT1": "Goldfish",
+        "OPT2": "Shark",
+        "OPT3": "Scorpion",
+        "OPT4": "Reindeer",
+        "_id": 845
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals18",
+        "OPT1": "Baboon",
+        "OPT2": "Marmot",
+        "OPT3": "Chimpanzee",
+        "OPT4": "Peacock",
+        "_id": 846
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals149",
+        "OPT1": "Praying Mantis",
+        "OPT2": "Fox",
+        "OPT3": "Lynx",
+        "OPT4": "Aardvark",
+        "_id": 847
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler86",
+        "OPT1": "Pear",
+        "OPT2": "Cucumber",
+        "OPT3": "Cranberry",
+        "OPT4": "Pineapple",
+        "_id": 848
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_mali",
+        "OPT1": "Mali",
+        "OPT2": "Gabon",
+        "OPT3": "Tunisia",
+        "OPT4": "Guinea",
+        "_id": 849
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler10",
+        "OPT1": "Watercress",
+        "OPT2": "Lime",
+        "OPT3": "Carrot",
+        "OPT4": "Plum",
+        "_id": 850
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Peru",
+        "OPT1": "Lima",
+        "OPT2": "Vienna",
+        "OPT3": "Doha",
+        "OPT4": "San Salvador",
+        "_id": 851
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_luxembourg",
+        "OPT1": "Luxembourg",
+        "OPT2": "Germany",
+        "OPT3": "South Korea",
+        "OPT4": "Moldova",
+        "_id": 852
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Tunisia",
+        "OPT1": "Tunis",
+        "OPT2": "Dushanbe",
+        "OPT3": "Podgorica (official)",
+        "OPT4": "Bissau",
+        "_id": 853
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_saudi_arabia",
+        "OPT1": "Saudi Arabia",
+        "OPT2": "Zimbabwe",
+        "OPT3": "Guatemala",
+        "OPT4": "Dominica",
+        "_id": 854
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_cambodia",
+        "OPT1": "Cambodia",
+        "OPT2": "Hungary",
+        "OPT3": "Syria",
+        "OPT4": "Barbados",
+        "_id": 855
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals3",
+        "OPT1": "Elephant",
+        "OPT2": "Aphid",
+        "OPT3": "Land Snail",
+        "OPT4": "Coyote",
+        "_id": 856
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt013",
+        "OPT1": "Carpet",
+        "OPT2": "Pillow",
+        "OPT3": "Knives",
+        "OPT4": "Markers",
+        "_id": 857
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_south_africa",
+        "OPT1": "South Africa",
+        "OPT2": "Mauritius",
+        "OPT3": "Tonga",
+        "OPT4": "Saint Lucia",
+        "_id": 858
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals166",
+        "OPT1": "Shark",
+        "OPT2": "Tortoise",
+        "OPT3": "Mountain Goat",
+        "OPT4": "Porcupine",
+        "_id": 859
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Sri Lanka",
+        "OPT1": "Sri Jayawardenepura Kotte (official)",
+        "OPT2": "Tunis",
+        "OPT3": "Funafuti",
+        "OPT4": "Belgrade",
+        "_id": 860
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler17",
+        "OPT1": "Persimmon",
+        "OPT2": "Rutabaga",
+        "OPT3": "Pineapple",
+        "OPT4": "Prickly Pear",
+        "_id": 861
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals140",
+        "OPT1": "Pelican",
+        "OPT2": "Opossum",
+        "OPT3": "Capybara",
+        "OPT4": "Lemming",
+        "_id": 862
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Seychelles",
+        "OPT1": "Victoria",
+        "OPT2": "Juba",
+        "OPT3": "Kampala",
+        "OPT4": "N'Djamena",
+        "_id": 863
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler14",
+        "OPT1": "Lime",
+        "OPT2": "Romaine Lettuce",
+        "OPT3": "Celery",
+        "OPT4": "Papaya",
+        "_id": 864
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt007",
+        "OPT1": "Bookcase",
+        "OPT2": "Bucket",
+        "OPT3": "Calendar",
+        "OPT4": "Binders",
+        "_id": 865
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_the_republic_of_china",
+        "OPT1": "The People's Republic of China",
+        "OPT2": "Niue",
+        "OPT3": "Montenegro",
+        "OPT4": "Russia",
+        "_id": 866
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt090",
+        "OPT1": "Toothpaste",
+        "OPT2": "Duvet",
+        "OPT3": "Saw",
+        "OPT4": "Pans",
+        "_id": 867
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_iraq",
+        "OPT1": "Iraq",
+        "OPT2": "Rwanda",
+        "OPT3": "Ghana",
+        "OPT4": "Croatia",
+        "_id": 868
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_libya",
+        "OPT1": "Libya",
+        "OPT2": "Saint Vincent and the Grenadines",
+        "OPT3": "India",
+        "OPT4": "Burkina Faso",
+        "_id": 869
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Solomon islands",
+        "OPT1": "Honiara",
+        "OPT2": "Ankara",
+        "OPT3": "Stockholm",
+        "OPT4": "Mbabane (administrative)",
+        "_id": 870
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Dominican Republic",
+        "OPT1": "Santo Domingo",
+        "OPT2": "Port Vila",
+        "OPT3": "Asunción",
+        "OPT4": "Dakar",
+        "_id": 871
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals21",
+        "OPT1": "Barracuda",
+        "OPT2": "Whale",
+        "OPT3": "Seahorse",
+        "OPT4": "Coral",
+        "_id": 872
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals61",
+        "OPT1": "Deer",
+        "OPT2": "Bison",
+        "OPT3": "Crocodile",
+        "OPT4": "Whale",
+        "_id": 873
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals104",
+        "OPT1": "Komodo Dragon",
+        "OPT2": "Moose",
+        "OPT3": "Ladybug",
+        "OPT4": "Horse",
+        "_id": 874
+    },
+    {
+        "CATEGORY": "tools",
+        "IMAGESTRING": "slayt075",
+        "OPT1": "Shoes",
+        "OPT2": "Pants",
+        "OPT3": "Lamp",
+        "OPT4": "Toothbrush",
+        "_id": 875
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals174",
+        "OPT1": "Squirrel",
+        "OPT2": "Donkey",
+        "OPT3": "Woodpecker",
+        "OPT4": "Guinea Pig",
+        "_id": 876
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals65",
+        "OPT1": "Duck",
+        "OPT2": "Blue Whale",
+        "OPT3": "Pheasant",
+        "OPT4": "Reptile",
+        "_id": 877
+    },
+    {
+        "CATEGORY": "animals",
+        "IMAGESTRING": "animals29",
+        "OPT1": "Blackbird",
+        "OPT2": "Armadillo",
+        "OPT3": "Dog",
+        "OPT4": "Bat",
+        "_id": 878
+    },
+    {
+        "CATEGORY": "flags",
+        "IMAGESTRING": "flag_of_denmark",
+        "OPT1": "Denmark",
+        "OPT2": "The Gambia",
+        "OPT3": "Belgium",
+        "OPT4": "Jamaica",
+        "_id": 879
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Moldova",
+        "OPT1": "Chisinau",
+        "OPT2": "Maputo",
+        "OPT3": "El Aaiún (declared)",
+        "OPT4": "Berlin",
+        "_id": 880
+    },
+    {
+        "CATEGORY": "vegetables",
+        "IMAGESTRING": "sebzeler53",
+        "OPT1": "Pumpkin",
+        "OPT2": "Avacado",
+        "OPT3": "Olive",
+        "OPT4": "Daikon",
+        "_id": 881
+    },
+    {
+        "CATEGORY": "capitals",
+        "IMAGESTRING": "Gibraltar",
+        "OPT1": "Gibraltar",
+        "OPT2": "Singapore",
+        "OPT3": "Paramaribo",
+        "OPT4": "Kuala Lumpur (official, legislative and royal)",
+        "_id": 882
+    }
+]
