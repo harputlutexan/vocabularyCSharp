@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash/debug files
+sysinfo.txt
+*.stackdump
+
+# Generated / local service integration
+Assets/GPGSIds.cs
+Assets/GPGSIds.cs.meta
+
+# Third-party plugins intentionally not tracked in this code-sample repository
+Assets/GooglePlayGames/
+Assets/GooglePlayGames.meta
+Assets/ExternalDependencyManager/
+Assets/ExternalDependencyManager.meta
+Assets/Plugins/
+Assets/Plugins.meta
